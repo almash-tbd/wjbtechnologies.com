@@ -2,7 +2,7 @@
 
 import { useEffect, useRef, useState } from "react"
 import { motion, useScroll, useTransform } from "framer-motion"
-import { Mail, Phone, Clock, MapPin } from "lucide-react"
+import { Mail, Clock } from "lucide-react"
 import { company, offices } from "@/lib/data"
 
 const ease = [0.25, 0.46, 0.45, 0.94] as const

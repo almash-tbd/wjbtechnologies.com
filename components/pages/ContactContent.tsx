@@ -1,7 +1,7 @@
 "use client"
 
 import { motion } from "framer-motion"
-import { Mail, Phone, Clock, MapPin } from "lucide-react"
+import { Mail, Clock } from "lucide-react"
 import { ContactForm } from "@/components/ui/ContactForm"
 import { ScrollReveal } from "@/components/ui/ScrollReveal"
 import { company, offices } from "@/lib/data"
