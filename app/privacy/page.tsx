@@ -14,7 +14,7 @@ export const metadata: Metadata = buildMetadata({
 const sections = [
   {
     title: "1. Introduction",
-    paragraphs: [`${company.brandName} ("we", "our", "us") respects your privacy. This Privacy Policy explains how we collect, use, disclose, and safeguard information when you visit our website or contact us through forms, email, or phone.`],
+    paragraphs: [`${company.brandName} ("we", "our", "us") respects your privacy. This Privacy Policy explains how we collect, use, disclose, and safeguard information when you visit our website or contact us through forms or email.`],
   },
   {
     title: "2. Information We Collect",
@@ -45,7 +45,7 @@ const sections = [
   },
   {
     title: "8. Contact Us",
-    paragraphs: [`For privacy-related questions, contact ${company.brandName} at ${company.email} or ${company.phone}.`],
+    paragraphs: [`For privacy-related questions, contact ${company.brandName} at ${company.email}.`],
   },
 ]
 

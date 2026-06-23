@@ -7,7 +7,7 @@ import { ScrollReveal } from "@/components/ui/ScrollReveal"
 const reasons = [
   { title: "Proven Delivery Discipline", description: "Structured discovery, Agile sprints, and transparent milestones keep projects on track. You always know what is being built, why it matters, and when to expect results." },
   { title: "Full-Stack Capability", description: "Web, mobile, desktop, cloud, APIs, databases, UI/UX, testing, and support — under one roof. Reduce vendor fragmentation and maintain architectural coherence." },
-  { title: "India-Focused, Global-Ready", description: "Based in Vadodara with experience serving Indian business practices, GST-aware systems, and mobile-first users, while building platforms ready for international scale." },
+  { title: "India-Focused, Global-Ready", description: "With experience serving Indian business practices, GST-aware systems, and mobile-first users, we build platforms ready for international scale." },
   { title: "Business-Aligned Engineering", description: "We translate operational pain points into software that teams actually adopt. Solutions are designed around workflows, not abstract feature lists." },
   { title: "Maintainable Codebase", description: "Clean architecture, documentation, and version control practices ensure your software remains extensible long after initial launch." },
   { title: "Responsive Support", description: "Post-launch maintenance, enhancements, and consultation keep your investment protected as requirements evolve." },

@@ -16,7 +16,6 @@ export function ContactSection() {
           </p>
           <div className="space-y-4 font-mono text-sm text-muted-foreground">
             <p><span className="text-accent">Email:</span> {company.email}</p>
-            <p><span className="text-accent">Phone:</span> {company.phone}</p>
           </div>
         </motion.div>
         <motion.div initial={{ opacity: 0, x: 20 }} whileInView={{ opacity: 1, x: 0 }} viewport={{ once: true }}>

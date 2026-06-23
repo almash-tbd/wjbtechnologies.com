@@ -95,8 +95,7 @@ export function Footer() {
           </div>
           <div>
             <p className="font-mono text-xs tracking-widest text-muted-foreground mb-4">CONTACT</p>
-            <p className="font-mono text-xs text-muted-foreground mb-2">{company.email}</p>
-            <p className="font-mono text-xs text-muted-foreground mb-4">{company.phone}</p>
+            <p className="font-mono text-xs text-muted-foreground mb-4">{company.email}</p>
             <div className="flex gap-4">
               <span className="p-2 border border-white/20 rounded-full text-muted-foreground" aria-label="Instagram">
                 <Instagram className="w-4 h-4" />

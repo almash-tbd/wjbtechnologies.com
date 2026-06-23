@@ -18,7 +18,7 @@ const geistMono = Geist_Mono({
 export const metadata: Metadata = buildMetadata({
   title: "IT Software Development Company in India",
   description: company.description,
-  keywords: ["software development India", "IT company Vadodara", "web development", "custom software"],
+  keywords: ["software development India", "software engineering company India", "web development", "custom software"],
   path: "/",
 })
 

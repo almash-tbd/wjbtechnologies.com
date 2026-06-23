@@ -45,7 +45,6 @@ export function organizationSchema() {
     name: company.brandName,
     url: company.url,
     email: company.email,
-    telephone: company.phone,
     foundingDate: String(company.establishedYear),
     description: company.description,
     address: {
