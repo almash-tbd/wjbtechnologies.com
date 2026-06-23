@@ -1,0 +1,105 @@
+{
+  "overviewParagraphs": [
+    "WJB Technologies began in 2011 with a straightforward belief: Indian businesses deserve software that is built carefully, explained clearly, and maintained responsibly. What started as a small development practice in Vadodara has grown into a full-service technology partner serving startups, SMEs, and established enterprises that need dependable digital systems—not off-the-shelf templates that fail under real operational load.",
+    "Over more than a decade, we have delivered web platforms, mobile applications, desktop tools, cloud systems, and enterprise integrations across manufacturing, retail, healthcare, education, logistics, and professional services. Our work sits at the intersection of business process understanding and modern engineering practice. We listen first, document assumptions early, and build in iterations so stakeholders stay aligned from discovery through deployment."
+  ],
+  "story": [
+    "When WJB Technologies was founded, the Indian software market was shifting rapidly. Businesses were moving beyond basic websites toward applications that connected teams, automated workflows, and gave leadership better visibility into operations. We positioned ourselves to meet that need with custom development rather than one-size-fits-all products—because every organisation we met had different constraints, different users, and different definitions of success.",
+    "Our early projects focused on web applications and internal business tools for regional companies in Gujarat and western India. As delivery discipline matured, so did our scope: mobile apps for field teams, Windows desktop software for specialised workflows, API layers connecting legacy systems to modern frontends, and cloud deployments that improved reliability without unnecessary complexity. Each engagement reinforced the same lesson—software only creates value when people actually use it, which means usability, performance, and maintainability are not optional extras.",
+    "Today, WJB Technologies operates from our headquarters at Maruti Complex on RC Dutt Road in Alkapuri, Vadodara, while collaborating with clients across India through on-site and remote engagement models. We combine local accessibility with engineering standards suited to national and international audiences. Whether you are digitising a manual process, launching a customer-facing product, or modernising software that has outgrown its original architecture, we approach the work with the same seriousness: clear scope, transparent communication, and code you can build on.",
+    "We are not a volume outsourcing factory. We take on projects where quality, partnership, and long-term outcomes matter. That philosophy has kept client relationships active across years—not because contracts demand it, but because the software continues to earn trust through reliability, thoughtful design, and responsive support when requirements change."
+  ],
+  "milestones": [
+    {
+      "year": "2011",
+      "title": "Company Founded",
+      "description": "WJB Technologies established in Vadodara with a focus on custom web and business application development for Indian SMEs."
+    },
+    {
+      "year": "2011",
+      "title": "Digital Presence",
+      "description": "Registered wjbtechnologies.com, marking the start of a long-term commitment to transparent, documented client communication."
+    },
+    {
+      "year": "2014",
+      "title": "Mobile & Desktop Expansion",
+      "description": "Extended delivery capability beyond web into native mobile applications and Windows desktop software for specialised workflows."
+    },
+    {
+      "year": "2017",
+      "title": "Enterprise Integrations",
+      "description": "Began delivering API development, database architecture, and ERP/CRM integration projects for larger operational environments."
+    },
+    {
+      "year": "2020",
+      "title": "Cloud-First Delivery",
+      "description": "Adopted structured cloud deployment practices, remote collaboration workflows, and scalable architecture patterns across new builds."
+    },
+    {
+      "year": "2024",
+      "title": "Full-Stack Partner",
+      "description": "Today offering 18 service lines spanning design, development, testing, modernisation, and long-term application support."
+    }
+  ],
+  "capabilities": [
+    {
+      "title": "Web & Progressive Apps",
+      "description": "Marketing sites, customer portals, admin dashboards, and PWAs engineered with modern frameworks for speed and maintainability."
+    },
+    {
+      "title": "Mobile Experiences",
+      "description": "iOS, Android, and cross-platform applications for customer engagement, field operations, and internal team productivity."
+    },
+    {
+      "title": "Desktop & Windows Software",
+      "description": "Purpose-built desktop tools for environments where browser-based delivery is not sufficient or offline reliability is critical."
+    },
+    {
+      "title": "Enterprise Systems",
+      "description": "Business platforms with role-based access, workflow automation, reporting, and integration into existing operational software."
+    },
+    {
+      "title": "Cloud & APIs",
+      "description": "Scalable backend services, RESTful APIs, database design, and cloud deployments structured for growth and observability."
+    },
+    {
+      "title": "Design, QA & Support",
+      "description": "UI/UX design, structured testing, post-launch maintenance, and modernisation of legacy applications under one accountable team."
+    }
+  ],
+  "industries": [
+    "Manufacturing",
+    "Retail & E-commerce",
+    "Healthcare",
+    "Education",
+    "Logistics",
+    "Professional Services",
+    "Finance & Accounting",
+    "Real Estate"
+  ],
+  "approach": [
+    {
+      "title": "Understand Before Building",
+      "description": "Every project starts with discovery—mapping users, workflows, constraints, and success criteria so technology decisions serve business reality."
+    },
+    {
+      "title": "Iterate With Visibility",
+      "description": "Agile delivery with regular demos and documented progress. You see working software early, provide feedback often, and avoid costly late surprises."
+    },
+    {
+      "title": "Engineer for Maintenance",
+      "description": "Clean code, version control, and architectural clarity ensure your platform can evolve without painful rewrites as teams and requirements grow."
+    },
+    {
+      "title": "Stay Accountable After Launch",
+      "description": "Deployment is a milestone, not an endpoint. We offer support, enhancements, and honest guidance as your software encounters real-world use."
+    }
+  ],
+  "commitments": [
+    "Direct communication with engineers and project leads—not layers of account management noise",
+    "Documented scope, assumptions, and change process before significant build work begins",
+    "Security-conscious development with validation, access control, and deployment best practices",
+    "Source code handover and technical documentation so you retain full ownership of your investment",
+    "Recommendations grounded in your budget, timeline, and operational context—not upsell pressure"
+  ]
+}

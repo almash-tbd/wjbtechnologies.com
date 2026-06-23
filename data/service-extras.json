@@ -1,0 +1,838 @@
+{
+  "web-development": {
+    "whoItsFor": [
+      "Startups launching their first digital product",
+      "SMEs digitising customer-facing operations",
+      "Enterprises modernising legacy web platforms",
+      "Agencies needing a dependable development partner"
+    ],
+    "useCases": [
+      {
+        "title": "Corporate Websites",
+        "description": "Brand-focused marketing sites with CMS, lead capture, and analytics integrated for measurable growth."
+      },
+      {
+        "title": "Customer Portals",
+        "description": "Secure self-service portals for account management, orders, support tickets, and document access."
+      },
+      {
+        "title": "Internal Dashboards",
+        "description": "Role-based web applications that give teams real-time visibility into operations and KPIs."
+      },
+      {
+        "title": "B2B Platforms",
+        "description": "Dealer, vendor, or partner portals with tiered access, catalogue browsing, and workflow automation."
+      }
+    ],
+    "whyChoose": "WJB Technologies combines modern frontend engineering with practical delivery for Indian businesses. We build web platforms that load fast on mobile networks, integrate with tools you already use, and remain maintainable as your team and requirements grow.",
+    "industries": [
+      "Manufacturing",
+      "Retail",
+      "Healthcare",
+      "Education",
+      "Logistics",
+      "Professional Services"
+    ],
+    "deliverables": [
+      "Production-ready web application",
+      "Admin panel and CMS where applicable",
+      "API documentation",
+      "Deployment and hosting guidance",
+      "Source code handover",
+      "Post-launch support plan"
+    ],
+    "additionalContent": [
+      "Every web project at WJB Technologies begins with clarity on user journeys, conversion goals, and technical constraints. We document assumptions early, validate designs through prototypes when needed, and keep stakeholders informed with sprint demos. This approach reduces surprises at launch and helps your internal team adopt the platform confidently.",
+      "Whether you need a marketing site, a customer portal, or a data-heavy business application, our developers follow consistent coding standards, version control practices, and security guidelines. We also plan for growth—modular architecture, caching strategies, and database design that supports increasing users and data without costly rewrites."
+    ]
+  },
+  "mobile-app-development": {
+    "whoItsFor": [
+      "Businesses reaching customers on iOS and Android",
+      "Field teams needing mobile workflow tools",
+      "Startups building consumer-facing apps",
+      "Enterprises extending ERP or CRM to mobile"
+    ],
+    "useCases": [
+      {
+        "title": "Consumer Apps",
+        "description": "Engaging mobile experiences for onboarding, browsing, transactions, and loyalty programmes."
+      },
+      {
+        "title": "Field Service Apps",
+        "description": "Offline-capable apps for technicians with GPS routing, photo capture, and job completion workflows."
+      },
+      {
+        "title": "Sales Force Apps",
+        "description": "Mobile CRM tools for lead tracking, visit logging, and order placement in the field."
+      },
+      {
+        "title": "On-Demand Services",
+        "description": "Real-time booking, tracking, and notification-driven apps for service marketplaces."
+      }
+    ],
+    "whyChoose": "We build mobile apps that perform reliably on mid-range Android devices common in India, handle intermittent connectivity gracefully, and align with platform design expectations on both iOS and Android.",
+    "industries": [
+      "Retail",
+      "Healthcare",
+      "Logistics",
+      "Utilities",
+      "Hospitality",
+      "FinTech"
+    ],
+    "deliverables": [
+      "iOS and/or Android application",
+      "Backend API integration",
+      "App store submission support",
+      "Push notification setup",
+      "Analytics configuration",
+      "Maintenance roadmap"
+    ],
+    "additionalContent": [
+      "Mobile users expect speed, clarity, and reliability. Our team designs navigation and screen flows that reduce friction, implements efficient API communication, and tests on representative devices before release. We also plan update cycles so your app stays compatible with new OS versions and store policies.",
+      "From MVP launches to enterprise mobility programmes, WJB Technologies supports phased rollouts—core features first, then iterative enhancements based on real usage data. Admin dashboards often accompany mobile projects so your operations team can manage content, users, and notifications without developer dependency."
+    ]
+  },
+  "windows-application-development": {
+    "whoItsFor": [
+      "Manufacturing firms with shop-floor systems",
+      "Finance teams using desktop workflows",
+      "Enterprises on Windows-centric IT",
+      "Businesses replacing ageing WinForms apps"
+    ],
+    "useCases": [
+      {
+        "title": "Line-of-Business Apps",
+        "description": "Departmental tools for inventory, production tracking, billing, and reporting on Windows desktops."
+      },
+      {
+        "title": "Peripheral Integration",
+        "description": "Applications connecting to scanners, printers, weighing scales, and industrial equipment."
+      },
+      {
+        "title": "Data Entry Systems",
+        "description": "High-volume keyboard-driven interfaces optimised for accuracy and speed."
+      },
+      {
+        "title": "Reporting Suites",
+        "description": "Desktop tools generating exports, PDFs, and scheduled reports from central databases."
+      }
+    ],
+    "whyChoose": "Our .NET expertise delivers stable Windows applications that integrate with SQL Server, Active Directory, and existing enterprise infrastructure common in Indian organisations.",
+    "industries": [
+      "Manufacturing",
+      "Textiles",
+      "Pharma",
+      "Accounting",
+      "Distribution",
+      "Education"
+    ],
+    "deliverables": [
+      "Windows desktop application",
+      "Installer package (MSI)",
+      "Database scripts",
+      "User and admin documentation",
+      "Training materials",
+      "Version update strategy"
+    ],
+    "additionalContent": [
+      "Windows desktop software remains the right choice when teams need deep keyboard workflows, local processing speed, or integration with hardware that browsers cannot access reliably. We design interfaces that match how power users work, reducing training time and daily friction.",
+      "WJB Technologies also helps extend desktop applications over time—adding modules, modernising UI layers, and connecting legacy tools to web or mobile channels through APIs without forcing immediate full replacement."
+    ]
+  },
+  "custom-software-development": {
+    "whoItsFor": [
+      "Organisations with unique workflows",
+      "Companies outgrowing spreadsheets",
+      "Businesses replacing multiple disconnected tools",
+      "Leaders planning long-term digital products"
+    ],
+    "useCases": [
+      {
+        "title": "Workflow Automation",
+        "description": "Custom approval chains, notifications, and task routing tailored to your policies."
+      },
+      {
+        "title": "Operations Platforms",
+        "description": "Unified systems replacing email, spreadsheets, and manual handoffs across departments."
+      },
+      {
+        "title": "Industry-Specific Tools",
+        "description": "Software shaped around domain logic that generic products cannot support."
+      },
+      {
+        "title": "Integration Hubs",
+        "description": "Central platforms synchronising data between ERP, CRM, warehouse, and finance systems."
+      }
+    ],
+    "whyChoose": "Custom software from WJB Technologies is engineered around your processes—not the other way around—with transparent scoping, iterative delivery, and documentation your team can rely on.",
+    "industries": [
+      "Manufacturing",
+      "Logistics",
+      "Healthcare",
+      "Retail",
+      "Professional Services",
+      "Agriculture"
+    ],
+    "deliverables": [
+      "Custom application source code",
+      "Technical architecture document",
+      "User manuals",
+      "Deployment package",
+      "Training sessions",
+      "Support and enhancement options"
+    ],
+    "additionalContent": [
+      "Successful custom software starts with honest discovery. We map how work happens today, identify bottlenecks, and define measurable outcomes before writing code. This prevents building features nobody uses and keeps budgets aligned with business value.",
+      "Our delivery model supports phased releases so you gain usable functionality early while continuing to expand capabilities. Each phase includes testing, documentation, and handover steps that protect operational continuity."
+    ]
+  },
+  "progressive-web-apps": {
+    "whoItsFor": [
+      "Businesses wanting mobile reach without dual native apps",
+      "Teams serving users on varied network conditions",
+      "Organisations prioritising fast deployment cycles",
+      "Companies with web-first technology stacks"
+    ],
+    "useCases": [
+      {
+        "title": "Customer Self-Service",
+        "description": "Installable PWAs for bookings, account access, and order tracking without app store dependency."
+      },
+      {
+        "title": "Retail Catalogues",
+        "description": "Fast, offline-friendly product browsing for sales teams and showroom kiosks."
+      },
+      {
+        "title": "Internal Tools",
+        "description": "Lightweight field apps for checklists, inspections, and data capture."
+      },
+      {
+        "title": "Content Platforms",
+        "description": "Media-rich PWAs with caching for reliable playback and reading experiences."
+      }
+    ],
+    "whyChoose": "We implement PWAs with performance budgets, service worker strategies, and install prompts tuned for Indian mobile users—delivering app-like experiences at lower development and maintenance cost.",
+    "industries": [
+      "Retail",
+      "Education",
+      "Healthcare",
+      "Hospitality",
+      "NGOs",
+      "Startups"
+    ],
+    "deliverables": [
+      "Progressive web application",
+      "Offline and caching configuration",
+      "Push notification setup",
+      "Lighthouse performance report",
+      "Deployment on HTTPS",
+      "Update and monitoring guide"
+    ],
+    "additionalContent": [
+      "PWAs bridge the gap between website reach and app-like engagement. WJB Technologies evaluates whether a PWA fits your hardware, offline, and notification requirements before recommending architecture—honest guidance saves unnecessary native development cost.",
+      "We optimise PWAs for Core Web Vitals and real-device testing, ensuring acceptable performance on mid-range phones and slower networks prevalent across India."
+    ]
+  },
+  "cross-platform-development": {
+    "whoItsFor": [
+      "Startups launching on iOS and Android simultaneously",
+      "Businesses with limited mobile budgets",
+      "Teams maintaining one codebase for two platforms",
+      "Products needing faster feature iteration"
+    ],
+    "useCases": [
+      {
+        "title": "Dual-Platform Launch",
+        "description": "Simultaneous iOS and Android release from a shared React Native or Flutter codebase."
+      },
+      {
+        "title": "Enterprise Mobility",
+        "description": "Internal apps for approvals, inventory checks, and team coordination across devices."
+      },
+      {
+        "title": "Customer Engagement",
+        "description": "Brand apps with notifications, profiles, and transactional flows on both platforms."
+      },
+      {
+        "title": "Pilot Programmes",
+        "description": "Rapid MVP builds to validate product-market fit before native optimisation."
+      }
+    ],
+    "whyChoose": "Our cross-platform teams balance shared logic with platform-specific polish, reducing duplicate effort while keeping user experience credible on both iOS and Android.",
+    "industries": [
+      "E-commerce",
+      "FinTech",
+      "Logistics",
+      "Education",
+      "SaaS",
+      "Healthcare"
+    ],
+    "deliverables": [
+      "Cross-platform mobile app",
+      "CI/CD pipeline for builds",
+      "Store listing assets guidance",
+      "Crash and analytics setup",
+      "OTA update strategy",
+      "Platform-specific module docs"
+    ],
+    "additionalContent": [
+      "Cross-platform development works best when platform differences are planned upfront—push permissions, deep links, biometric auth, and store compliance are handled deliberately rather than as afterthoughts.",
+      "WJB Technologies structures mobile codebases for long-term maintenance: clear module boundaries, documented native bridges where needed, and release processes your team or our support team can run confidently."
+    ]
+  },
+  "enterprise-applications": {
+    "whoItsFor": [
+      "Mid-to-large organisations with complex workflows",
+      "IT heads modernising mission-critical systems",
+      "Multi-department operations needing unified platforms",
+      "Regulated industries requiring audit trails"
+    ],
+    "useCases": [
+      {
+        "title": "ERP Extensions",
+        "description": "Custom modules extending ERP capabilities for workflows not covered by standard packages."
+      },
+      {
+        "title": "Approval Systems",
+        "description": "Multi-level authorisation for procurement, HR, finance, and compliance processes."
+      },
+      {
+        "title": "Asset Management",
+        "description": "Tracking equipment, maintenance schedules, depreciation, and utilisation across locations."
+      },
+      {
+        "title": "Compliance Platforms",
+        "description": "Audit logging, document control, and role-based access for regulated operations."
+      }
+    ],
+    "whyChoose": "Enterprise delivery demands discipline—WJB Technologies brings structured governance, security-conscious architecture, and phased rollouts that respect operational risk tolerance.",
+    "industries": [
+      "Manufacturing",
+      "Pharma",
+      "Banking",
+      "Insurance",
+      "Government Contractors",
+      "Large Retail"
+    ],
+    "deliverables": [
+      "Enterprise application modules",
+      "Integration specifications",
+      "Security and access model docs",
+      "UAT test packs",
+      "Production deployment runbook",
+      "SLA-based support options"
+    ],
+    "additionalContent": [
+      "Enterprise projects require alignment across departments. We facilitate workshops, document decisions, and maintain traceability from requirements through testing so audits and handovers are straightforward.",
+      "Scalability, high availability, and disaster recovery are planned into architecture—not bolted on later. We work with your IT team on environment strategy, monitoring, and backup procedures suited to your infrastructure."
+    ]
+  },
+  "desktop-applications": {
+    "whoItsFor": [
+      "Teams needing offline-first professional tools",
+      "Labs and studios with local processing needs",
+      "Organisations with Windows/macOS user bases",
+      "Businesses requiring hardware integration"
+    ],
+    "useCases": [
+      {
+        "title": "Design and Engineering Tools",
+        "description": "Desktop utilities for calculations, file processing, and specialised visualisation."
+      },
+      {
+        "title": "Batch Processing",
+        "description": "High-volume local data transformation, import/export, and scheduled jobs."
+      },
+      {
+        "title": "Kiosk Applications",
+        "description": "Locked-down desktop apps for reception, factory floor, or public terminals."
+      },
+      {
+        "title": "Cross-OS Utilities",
+        "description": "Electron or Qt apps delivering consistent experience on Windows, macOS, and Linux."
+      }
+    ],
+    "whyChoose": "We match desktop technology to your environment—.NET for Windows shops, Electron for cross-platform web-skilled teams—prioritising stability and IT deployability.",
+    "industries": [
+      "Engineering",
+      "Media",
+      "Healthcare",
+      "Retail POS",
+      "Laboratories",
+      "Accounting"
+    ],
+    "deliverables": [
+      "Desktop application builds",
+      "Auto-update mechanism",
+      "Licensing configuration if needed",
+      "IT deployment guide",
+      "Local database setup",
+      "Support documentation"
+    ],
+    "additionalContent": [
+      "Desktop applications excel when users spend hours in the tool daily. We optimise for keyboard shortcuts, bulk actions, and responsive UI even during heavy background processing.",
+      "Synchronisation with cloud services is designed carefully—conflict resolution, retry logic, and clear offline indicators keep data trustworthy across disconnected and connected states."
+    ]
+  },
+  "software-modernization": {
+    "whoItsFor": [
+      "Organisations stuck on legacy codebases",
+      "IT leaders facing rising maintenance costs",
+      "Businesses blocked from mobile and cloud adoption",
+      "Teams planning phased digital transformation"
+    ],
+    "useCases": [
+      {
+        "title": "UI Modernisation",
+        "description": "Refresh outdated interfaces while preserving core business logic and data integrity."
+      },
+      {
+        "title": "Cloud Migration",
+        "description": "Move on-premise applications to scalable cloud infrastructure with minimal downtime."
+      },
+      {
+        "title": "API Extraction",
+        "description": "Expose legacy functionality through modern APIs for mobile and partner integrations."
+      },
+      {
+        "title": "Database Refactoring",
+        "description": "Normalise schemas, improve performance, and enable reliable reporting."
+      }
+    ],
+    "whyChoose": "We modernise pragmatically—assessing risk, delivering in phases, and maintaining business continuity rather than forcing risky big-bang replacements.",
+    "industries": [
+      "Manufacturing",
+      "Textiles",
+      "Banking",
+      "Insurance",
+      "Government",
+      "Distribution"
+    ],
+    "deliverables": [
+      "Modernisation assessment report",
+      "Phased migration roadmap",
+      "Refactored application modules",
+      "Parallel testing validation",
+      "Cutover and rollback plan",
+      "Updated technical documentation"
+    ],
+    "additionalContent": [
+      "Modernisation success depends on understanding what the legacy system actually does—not just what old documentation claims. We invest in code archaeology, stakeholder interviews, and automated regression tests before structural changes.",
+      "Each modernisation phase delivers visible value—better UX, faster reports, or new integration capability—so stakeholders stay supportive throughout a multi-month programme."
+    ]
+  },
+  "maintenance-support": {
+    "whoItsFor": [
+      "Companies without in-house dev capacity",
+      "Teams after vendor abandonment",
+      "Organisations post-launch needing stability",
+      "IT heads wanting predictable support SLAs"
+    ],
+    "useCases": [
+      {
+        "title": "Bug Fix and Patches",
+        "description": "Responsive resolution of production defects with root-cause analysis."
+      },
+      {
+        "title": "Dependency Updates",
+        "description": "Framework, library, and OS compatibility updates to reduce security exposure."
+      },
+      {
+        "title": "Minor Enhancements",
+        "description": "Small feature additions, report tweaks, and configuration changes within support scope."
+      },
+      {
+        "title": "Performance Tuning",
+        "description": "Query optimisation, caching improvements, and bottleneck remediation."
+      }
+    ],
+    "whyChoose": "WJB Technologies treats support as partnership—proactive monitoring recommendations, transparent ticketing, and honest guidance on when enhancement projects are more appropriate than patches.",
+    "industries": [
+      "All industries with live software assets"
+    ],
+    "deliverables": [
+      "Support SLA agreement",
+      "Incident response procedures",
+      "Monthly health summary",
+      "Patch and release notes",
+      "Knowledge base updates",
+      "Enhancement backlog recommendations"
+    ],
+    "additionalContent": [
+      "Reliable maintenance requires context. During onboarding we review architecture, deployment processes, and historical issues so responses are fast and accurate—not guesswork.",
+      "We balance stability with progress—applying security patches promptly while scheduling enhancements in controlled release windows that your operations team can plan around."
+    ]
+  },
+  "ui-ux-design": {
+    "whoItsFor": [
+      "Product teams pre-development",
+      "Businesses with low adoption on existing apps",
+      "Startups needing investor-ready prototypes",
+      "Enterprises standardising design systems"
+    ],
+    "useCases": [
+      {
+        "title": "Product Discovery",
+        "description": "User research, personas, and journey maps informing product direction."
+      },
+      {
+        "title": "Wireframe to UI",
+        "description": "Low-fidelity flows through high-fidelity screens ready for development handoff."
+      },
+      {
+        "title": "Design Systems",
+        "description": "Reusable components, tokens, and guidelines for consistent multi-screen products."
+      },
+      {
+        "title": "UX Audits",
+        "description": "Heuristic reviews and usability recommendations for existing applications."
+      }
+    ],
+    "whyChoose": "Our designers work alongside engineers from day one—delivering Figma specs, interaction notes, and accessible patterns that developers can implement without ambiguity.",
+    "industries": [
+      "SaaS",
+      "E-commerce",
+      "Healthcare",
+      "FinTech",
+      "Education",
+      "Enterprise"
+    ],
+    "deliverables": [
+      "Wireframes and prototypes",
+      "Visual UI designs",
+      "Design system components",
+      "Developer handoff specs",
+      "Usability test summary",
+      "Accessibility checklist"
+    ],
+    "additionalContent": [
+      "Good design reduces support costs and increases conversion. We validate flows early with clickable prototypes, catching navigation problems before they become expensive code changes.",
+      "Indian users often interact primarily on mobile with varying literacy and connectivity. We design for clarity, thumb reach, and forgiving error states—not just aesthetic trends."
+    ]
+  },
+  "database-development": {
+    "whoItsFor": [
+      "Applications with growing data complexity",
+      "Teams facing slow reports and queries",
+      "Projects requiring migration from legacy DBs",
+      "Organisations planning analytics foundations"
+    ],
+    "useCases": [
+      {
+        "title": "Schema Design",
+        "description": "Normalised or strategically denormalised models supporting transactions and reporting."
+      },
+      {
+        "title": "Migration Projects",
+        "description": "Safe data transfer from Access, Excel, or legacy servers with validation."
+      },
+      {
+        "title": "Performance Optimisation",
+        "description": "Index tuning, query rewriting, and partitioning for large datasets."
+      },
+      {
+        "title": "Reporting Layer",
+        "description": "Views, stored procedures, and ETL supporting BI and dashboards."
+      }
+    ],
+    "whyChoose": "Database work at WJB Technologies is planned alongside application architecture—avoiding the painful retrofit of poorly designed schemas after features are built.",
+    "industries": [
+      "Manufacturing",
+      "Retail",
+      "Healthcare",
+      "FinTech",
+      "Logistics",
+      "SaaS"
+    ],
+    "deliverables": [
+      "ER diagrams and schema scripts",
+      "Migration validation reports",
+      "Index and query optimisation notes",
+      "Backup and recovery guidelines",
+      "Data dictionary",
+      "Monitoring recommendations"
+    ],
+    "additionalContent": [
+      "Data integrity is non-negotiable. We use constraints, transactions, and migration checkpoints to ensure business-critical records remain accurate through schema changes and platform moves.",
+      "Whether PostgreSQL, MySQL, SQL Server, or MongoDB, selection is driven by data shape, query patterns, and team skills—not preference alone."
+    ]
+  },
+  "api-development": {
+    "whoItsFor": [
+      "Products needing mobile or partner connectivity",
+      "Enterprises integrating SaaS tools",
+      "Teams exposing microservices",
+      "Businesses automating manual data exchange"
+    ],
+    "useCases": [
+      {
+        "title": "REST API Design",
+        "description": "Versioned, documented APIs with consistent auth and error conventions."
+      },
+      {
+        "title": "Third-Party Integration",
+        "description": "Connections to payment, SMS, CRM, ERP, and logistics providers."
+      },
+      {
+        "title": "Webhook Systems",
+        "description": "Event-driven notifications between your platform and external systems."
+      },
+      {
+        "title": "Legacy Bridging",
+        "description": "Middleware translating old systems into modern API consumers can use."
+      }
+    ],
+    "whyChoose": "We build APIs that developers enjoy consuming—clear documentation, predictable behaviour, and security appropriate to data sensitivity.",
+    "industries": [
+      "FinTech",
+      "E-commerce",
+      "Logistics",
+      "Healthcare",
+      "SaaS",
+      "Manufacturing"
+    ],
+    "deliverables": [
+      "OpenAPI/Swagger documentation",
+      "Authentication implementation",
+      "Rate limiting and logging",
+      "Integration test suite",
+      "Postman collections",
+      "Versioning policy guide"
+    ],
+    "additionalContent": [
+      "APIs are contracts. Breaking changes damage trust with mobile apps, partners, and internal teams. We version deliberately and communicate deprecation timelines clearly.",
+      "Observability matters—structured logs, error tracking, and latency monitoring help you catch integration issues before customers report them."
+    ]
+  },
+  "software-testing": {
+    "whoItsFor": [
+      "Teams lacking dedicated QA capacity",
+      "Products preparing for major releases",
+      "Regulated environments needing test evidence",
+      "Companies improving release confidence"
+    ],
+    "useCases": [
+      {
+        "title": "Regression Testing",
+        "description": "Structured test cycles before each release to catch unintended side effects."
+      },
+      {
+        "title": "Automation Suites",
+        "description": "Repeatable API and UI tests integrated into CI pipelines."
+      },
+      {
+        "title": "Performance Testing",
+        "description": "Load and stress tests revealing bottlenecks before peak traffic."
+      },
+      {
+        "title": "UAT Support",
+        "description": "Test case preparation and facilitation for business sign-off."
+      }
+    ],
+    "whyChoose": "Our QA practice is collaborative—not adversarial—with developers. Defects are documented clearly with reproduction steps and severity that product owners can act on.",
+    "industries": [
+      "FinTech",
+      "Healthcare",
+      "E-commerce",
+      "Enterprise Software",
+      "SaaS",
+      "Government"
+    ],
+    "deliverables": [
+      "Test strategy document",
+      "Test cases and execution reports",
+      "Automated test scripts",
+      "Defect logs with severity",
+      "Release sign-off summary",
+      "Regression suite maintenance plan"
+    ],
+    "additionalContent": [
+      "Testing early saves money. We involve QA during requirement review and sprint planning so edge cases surface before code is finalised.",
+      "Automation is applied where it returns value—stable regression paths and APIs—not everywhere for appearance. Manual exploratory testing still covers complex user scenarios automation misses."
+    ]
+  },
+  "cloud-applications": {
+    "whoItsFor": [
+      "SaaS product companies",
+      "Enterprises moving off on-premise servers",
+      "Teams needing elastic scaling",
+      "Organisations standardising on AWS or Azure"
+    ],
+    "useCases": [
+      {
+        "title": "Cloud-Native SaaS",
+        "description": "Multi-tenant architectures with subscription billing and tenant isolation."
+      },
+      {
+        "title": "Lift-and-Optimise",
+        "description": "Migrating existing apps to cloud with right-sized infrastructure."
+      },
+      {
+        "title": "Serverless Workloads",
+        "description": "Event-driven processing for sporadic or bursty compute needs."
+      },
+      {
+        "title": "DevOps Pipelines",
+        "description": "CI/CD, infrastructure as code, and environment automation."
+      }
+    ],
+    "whyChoose": "WJB Technologies designs cloud solutions with cost visibility, security baselines, and runbooks your operations team can manage—not black boxes requiring permanent vendor dependency.",
+    "industries": [
+      "SaaS",
+      "E-commerce",
+      "Media",
+      "FinTech",
+      "Healthcare",
+      "Startups"
+    ],
+    "deliverables": [
+      "Cloud architecture diagram",
+      "IaC templates",
+      "CI/CD pipeline setup",
+      "Monitoring and alerting config",
+      "Cost optimisation review",
+      "Disaster recovery documentation"
+    ],
+    "additionalContent": [
+      "Cloud is a means to reliability and scale—not an end in itself. We right-size resources, use autoscaling thoughtfully, and review bills periodically to prevent runaway infrastructure cost.",
+      "Security in cloud environments requires identity management, network segmentation, and secrets handling from the first deployment—not retrofitted after an incident."
+    ]
+  },
+  "ecommerce-development": {
+    "whoItsFor": [
+      "Retailers going online",
+      "B2B distributors needing dealer portals",
+      "Brands requiring custom catalogue logic",
+      "Businesses outgrowing template stores"
+    ],
+    "useCases": [
+      {
+        "title": "D2C Online Stores",
+        "description": "Customer-facing shops with payments, shipping, and promotions."
+      },
+      {
+        "title": "B2B Ordering",
+        "description": "Tiered pricing, credit limits, and bulk order workflows for dealers."
+      },
+      {
+        "title": "Marketplace Features",
+        "description": "Multi-vendor catalogues with commission and fulfilment splits."
+      },
+      {
+        "title": "Omnichannel Sync",
+        "description": "Inventory and order synchronisation between online and offline channels."
+      }
+    ],
+    "whyChoose": "We build e-commerce for Indian checkout realities—Razorpay and UPI flows, GST-aware invoicing, and mobile-first browsing on mid-range devices.",
+    "industries": [
+      "Retail",
+      "Fashion",
+      "Electronics",
+      "FMCG",
+      "Industrial Supplies",
+      "Handicrafts"
+    ],
+    "deliverables": [
+      "E-commerce storefront",
+      "Admin and inventory panel",
+      "Payment gateway integration",
+      "Order notification setup",
+      "SEO foundation",
+      "Analytics and conversion tracking"
+    ],
+    "additionalContent": [
+      "Checkout friction kills revenue. We streamline steps, surface trust signals, and test payment flows thoroughly before campaigns go live.",
+      "Post-launch, we help you iterate—search improvements, abandoned cart flows, and catalogue tools that marketing teams can operate without developers."
+    ]
+  },
+  "cms-development": {
+    "whoItsFor": [
+      "Marketing teams managing frequent content updates",
+      "Publishers with multi-author workflows",
+      "Organisations needing headless content APIs",
+      "Businesses replacing hard-coded pages"
+    ],
+    "useCases": [
+      {
+        "title": "Marketing Websites",
+        "description": "Editable pages, blogs, landing pages, and media libraries for marketing teams."
+      },
+      {
+        "title": "Headless CMS",
+        "description": "Content APIs powering web, mobile, and kiosk experiences from one source."
+      },
+      {
+        "title": "Documentation Portals",
+        "description": "Structured knowledge bases with search, versioning, and role-based editing."
+      },
+      {
+        "title": "Multi-Language Ready",
+        "description": "Content models prepared for future localisation expansion."
+      }
+    ],
+    "whyChoose": "We empower content teams with intuitive editorial workflows while keeping frontend performance and developer flexibility intact.",
+    "industries": [
+      "Media",
+      "Education",
+      "Healthcare",
+      "Corporate Marketing",
+      "NGOs",
+      "Real Estate"
+    ],
+    "deliverables": [
+      "CMS installation and configuration",
+      "Content models and roles",
+      "Editor training session",
+      "Frontend integration",
+      "SEO plugin setup",
+      "Backup and update procedures"
+    ],
+    "additionalContent": [
+      "A CMS should simplify publishing—not create security risks. We configure roles, approval workflows, and plugin hygiene to keep sites maintainable and protected.",
+      "Headless approaches suit organisations publishing across channels. We help you choose between traditional and headless CMS based on team skills and channel strategy."
+    ]
+  },
+  "software-consulting": {
+    "whoItsFor": [
+      "Leaders planning technology roadmaps",
+      "Teams evaluating build vs buy decisions",
+      "Companies before major software investments",
+      "Investors conducting technical due diligence"
+    ],
+    "useCases": [
+      {
+        "title": "Technology Assessment",
+        "description": "Independent review of stack, architecture, and technical debt."
+      },
+      {
+        "title": "Roadmap Planning",
+        "description": "Phased plans aligning software investment with business priorities."
+      },
+      {
+        "title": "Vendor Selection",
+        "description": "Structured evaluation of platforms, agencies, and outsourcing options."
+      },
+      {
+        "title": "Agile Coaching",
+        "description": "Process improvements for delivery teams and stakeholder communication."
+      }
+    ],
+    "whyChoose": "Our consultants have delivery backgrounds—we give actionable recommendations grounded in what actually works in Indian business contexts, not generic slide decks.",
+    "industries": [
+      "All industries undertaking technology decisions"
+    ],
+    "deliverables": [
+      "Assessment report",
+      "Architecture recommendations",
+      "Roadmap document",
+      "Risk and cost analysis",
+      "Workshop facilitation notes",
+      "Optional implementation support plan"
+    ],
+    "additionalContent": [
+      "Consulting engagements are most valuable when they end with clear decisions—what to build, what to buy, what to retire, and in what order. We document trade-offs openly so leadership can commit with confidence.",
+      "We remain vendor-neutral in recommendations. If an off-the-shelf product genuinely fits better than custom development, we will say so—and help you implement or integrate it effectively."
+    ]
+  }
+}

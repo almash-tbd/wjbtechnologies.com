@@ -1,0 +1,405 @@
+[
+  {
+    "slug": "saas-solutions",
+    "title": "SaaS Solutions",
+    "shortDescription": "Scale your software business",
+    "heroSubtitle": "Build subscription-ready platforms with multi-tenant architecture, billing integration, and the operational tooling your SaaS product needs to grow sustainably.",
+    "icon": "database",
+    "challenges": [
+      "Onboarding flows that confuse first-time users and increase churn before value is realised",
+      "Subscription billing, plan changes, and invoicing handled through manual processes or disconnected tools",
+      "Single-tenant architecture that becomes expensive to host and difficult to scale per customer",
+      "Feature releases blocked by fragile codebases without automated testing or deployment pipelines",
+      "Limited visibility into product usage, activation, and retention across customer segments"
+    ],
+    "features": [
+      "Multi-tenant architecture with secure data isolation",
+      "Subscription billing and plan management integration",
+      "Role-based admin dashboards for customers and internal teams",
+      "API-first design for integrations and partner ecosystems",
+      "Usage analytics and reporting for product-led growth",
+      "Automated onboarding, provisioning, and account lifecycle workflows",
+      "CI/CD pipelines for reliable feature releases",
+      "Self-service customer portals with support ticket integration"
+    ],
+    "useCases": [
+      {
+        "title": "B2B SaaS Platforms",
+        "description": "Team-based products with organisation accounts, seat management, permission tiers, and admin controls suited to Indian and international B2B buyers."
+      },
+      {
+        "title": "Vertical SaaS Products",
+        "description": "Industry-specific software—logistics, education, professional services—where workflow depth matters more than generic feature breadth."
+      },
+      {
+        "title": "Internal-to-External SaaS",
+        "description": "Products that began as internal tools and are being productised for external customers with billing, onboarding, and support layers added."
+      },
+      {
+        "title": "SaaS Modernisation",
+        "description": "Legacy single-customer deployments restructured into scalable multi-tenant platforms without disrupting existing user bases."
+      }
+    ],
+    "whoItsFor": [
+      "Founders launching their first SaaS product with a validated problem",
+      "Product companies outgrowing manual billing and spreadsheet operations",
+      "Enterprises productising internal tools for external markets",
+      "Teams rebuilding monolithic apps into scalable subscription platforms"
+    ],
+    "technologies": [
+      "Next.js",
+      "React",
+      "Node.js",
+      "PostgreSQL",
+      "Redis",
+      "Stripe / Razorpay",
+      "AWS",
+      "Azure",
+      "Docker",
+      "REST & GraphQL APIs"
+    ],
+    "process": [
+      {
+        "step": "Product & Tenant Discovery",
+        "description": "We map user roles, subscription models, data isolation requirements, and integration needs before architecture decisions are finalised."
+      },
+      {
+        "step": "Architecture & MVP Scope",
+        "description": "Multi-tenant patterns, billing flows, and core feature boundaries are defined with a realistic MVP timeline and measurable launch criteria."
+      },
+      {
+        "step": "Iterative Build & Demo",
+        "description": "Agile sprints deliver working tenant provisioning, core workflows, and admin tooling with regular demos and documented progress."
+      },
+      {
+        "step": "Billing & Operations",
+        "description": "Payment gateway integration, invoicing logic, plan upgrades, and customer self-service flows are implemented and tested end-to-end."
+      },
+      {
+        "step": "Launch & Scale Support",
+        "description": "Production deployment, monitoring, documentation, and post-launch enhancement support keep your platform reliable as usage grows."
+      }
+    ],
+    "content": [
+      "Software-as-a-Service has become the default delivery model for products that solve recurring business problems. Indian startups and established companies alike are moving from one-off licensed software toward subscription platforms that generate predictable revenue and deepen customer relationships over time. Building SaaS successfully, however, requires more than a polished interface—it demands thoughtful multi-tenant architecture, dependable billing operations, and product instrumentation that tells you whether customers are actually getting value.",
+      "WJB Technologies helps organisations design and build SaaS platforms from the ground up or modernise existing applications into subscription-ready products. We focus on the structural decisions that determine long-term viability: how tenants are isolated, how permissions scale across growing teams, how billing events sync with product usage, and how your engineering team can ship features without fear of breaking production for every customer simultaneously.",
+      "Our SaaS engagements typically begin with clarity on the business model. Are you selling per-seat licenses, usage-based tiers, or flat organisation plans? Do customers need self-service signup or sales-assisted onboarding? Will partners or resellers manage sub-accounts? These questions shape database design, authentication flows, and admin tooling from day one. We document assumptions early so scope stays honest and stakeholders understand what the first release will—and will not—include.",
+      "For early-stage founders, we prioritise an MVP that proves core value: one well-executed workflow, clean onboarding, and a billing path that works reliably. For growth-stage products, we address technical debt, improve observability, and introduce automation that reduces manual customer success overhead. For enterprises productising internal platforms, we add the external-facing layers—signup, billing, support portals—without destabilising systems that internal teams already depend on.",
+      "Indian SaaS companies often serve both domestic and global customers. We engineer for performance on variable mobile networks, support domestic and international payment flows where required, and structure deployments on AWS or Azure with scalability and cost visibility in mind. Security practices—encrypted data handling, role-based access, audit logging—are embedded throughout rather than bolted on before launch.",
+      "The outcome is a platform you can grow with: documented architecture, testable releases, and a codebase structured for the next feature—not the next emergency rewrite. Whether you are validating a new product or scaling an existing one, WJB Technologies delivers SaaS engineering with the operational seriousness your subscribers expect."
+    ],
+    "outcomes": [
+      "Faster time-to-market with a focused, subscription-ready MVP",
+      "Reduced operational overhead through automated provisioning and billing",
+      "Scalable architecture that supports growing tenant counts without re-platforming",
+      "Clear product analytics to guide feature investment and retention efforts",
+      "Documented, maintainable codebase your team or ours can extend confidently"
+    ],
+    "relatedSolutions": ["fintech-solutions", "healthcare-solutions"],
+    "relatedServices": ["custom-software-development", "cloud-applications", "api-development", "ui-ux-design"],
+    "metaDescription": "SaaS development by WJB Technologies — multi-tenant platforms, subscription billing, admin dashboards, and scalable cloud architecture for growing software businesses in India.",
+    "keywords": ["SaaS development India", "multi-tenant software", "subscription platform development", "SaaS product engineering"]
+  },
+  {
+    "slug": "fintech-solutions",
+    "title": "FinTech Solutions",
+    "shortDescription": "Secure financial platforms",
+    "heroSubtitle": "Engineer payment systems, lending workflows, and financial dashboards with security-conscious architecture, audit trails, and integration into banking and payment ecosystems.",
+    "icon": "circle-dollar-sign",
+    "popular": true,
+    "challenges": [
+      "Legacy systems that cannot support real-time transactions or modern API integrations",
+      "Manual reconciliation processes that delay reporting and increase error risk",
+      "Security gaps in authentication, data handling, and access control across modules",
+      "Regulatory documentation and audit trails that are incomplete or scattered",
+      "Customer-facing flows that lack transparency on fees, status, and transaction history"
+    ],
+    "features": [
+      "Secure payment gateway and UPI integration",
+      "Role-based access with granular permission controls",
+      "Transaction logging and audit trail architecture",
+      "KYC and onboarding workflow modules",
+      "Lending, EMI, and repayment calculation engines",
+      "Real-time dashboards for operations and finance teams",
+      "API layers for partner banks, NBFCs, and third-party services",
+      "Encrypted data storage and secure API communication"
+    ],
+    "useCases": [
+      {
+        "title": "Payment & Collection Platforms",
+        "description": "Customer payment portals, merchant collection tools, and reconciliation dashboards integrated with Indian payment rails."
+      },
+      {
+        "title": "Lending & NBFC Operations",
+        "description": "Loan origination workflows, document collection, credit assessment interfaces, and repayment tracking systems."
+      },
+      {
+        "title": "Wealth & Investment Tools",
+        "description": "Portfolio dashboards, reporting modules, and client-facing tools for advisory and distribution businesses."
+      },
+      {
+        "title": "B2B Financial Operations",
+        "description": "Invoicing, vendor payments, expense management, and finance team workflows connected to existing ERP systems."
+      }
+    ],
+    "whoItsFor": [
+      "NBFCs and lending startups building digital origination platforms",
+      "Payment aggregators and collection businesses scaling operations",
+      "Enterprises modernising internal finance and treasury workflows",
+      "Advisory firms needing secure client reporting and portal experiences"
+    ],
+    "technologies": [
+      "Node.js",
+      ".NET",
+      "PostgreSQL",
+      "Redis",
+      "Razorpay",
+      "REST APIs",
+      "AWS",
+      "Azure",
+      "React",
+      "Next.js"
+    ],
+    "process": [
+      {
+        "step": "Risk & Workflow Mapping",
+        "description": "We document financial flows, user roles, regulatory considerations, and integration touchpoints before technical design begins."
+      },
+      {
+        "step": "Security-First Architecture",
+        "description": "Access control, encryption, logging, and data segregation patterns are defined to support auditability and operational trust."
+      },
+      {
+        "step": "Core Module Development",
+        "description": "Transaction engines, onboarding flows, and operational dashboards are built iteratively with structured testing at each stage."
+      },
+      {
+        "step": "Integration & Reconciliation",
+        "description": "Payment gateways, banking APIs, and reporting exports are connected with error handling and reconciliation visibility built in."
+      },
+      {
+        "step": "Hardening & Handover",
+        "description": "Security review, performance testing, deployment documentation, and admin training prepare your team for production operation."
+      }
+    ],
+    "content": [
+      "Financial technology products operate under heightened expectations. Users trust you with money, identity data, and sensitive business information. A slow dashboard or ambiguous transaction status erodes confidence quickly. WJB Technologies builds FinTech software with this reality at the centre—secure architecture, transparent workflows, and engineering discipline that supports the audit and operational scrutiny financial products attract.",
+      "Indian FinTech spans a wide spectrum: payment collection tools, lending platforms, NBFC operations software, wealth reporting portals, and internal finance systems for enterprises that have outgrown spreadsheets. Each context carries different integration requirements—Razorpay and UPI flows, KYC document handling, EMI calculations, partner bank APIs—but shares common foundations: reliable transaction records, role-based access, and logs that explain what happened when questions arise.",
+      "We do not claim regulatory compliance outcomes on your behalf. What we deliver is software engineered with security-conscious practices—input validation, encrypted communication, least-privilege access models, and structured audit trails—so your compliance and legal teams have a dependable technical foundation to build upon. Discovery phases explicitly surface data sensitivity, retention needs, and integration constraints before development accelerates.",
+      "For lending and NBFC use cases, we implement origination workflows that guide applicants through document submission, status tracking, and communication touchpoints while giving operations teams clear queues and decision support interfaces. For payment products, we focus on reconciliation visibility—matching gateway events to internal records, surfacing failures early, and giving finance teams exports they can trust. For advisory and wealth contexts, we prioritise clarity in reporting and access boundaries between client-facing and internal views.",
+      "FinTech products rarely exist in isolation. We build API layers and middleware that connect new modules to existing ERP, CRM, or core banking systems where required. Admin dashboards give operations teams control without requiring engineering intervention for routine configuration. And throughout delivery, we maintain the documentation—data models, integration contracts, deployment steps—that makes handover and future enhancement straightforward.",
+      "Whether you are launching a new financial product or strengthening an existing platform, WJB Technologies brings the technical depth and delivery transparency FinTech demands—without overpromising compliance outcomes your legal advisors must ultimately validate."
+    ],
+    "outcomes": [
+      "Dependable transaction and workflow systems with clear audit visibility",
+      "Reduced manual reconciliation through integrated payment and reporting flows",
+      "Secure role-based access aligned to operational responsibilities",
+      "Faster product iteration with documented APIs and modular architecture",
+      "Production-ready deployment with monitoring and handover materials"
+    ],
+    "relatedSolutions": ["saas-solutions", "healthcare-solutions"],
+    "relatedServices": ["api-development", "enterprise-applications", "database-development", "software-testing"],
+    "metaDescription": "FinTech software development by WJB Technologies — secure payment platforms, lending workflows, financial dashboards, and API integrations for Indian businesses.",
+    "keywords": ["FinTech development India", "payment platform software", "lending software development", "financial application development"]
+  },
+  {
+    "slug": "healthcare-solutions",
+    "title": "Healthcare Solutions",
+    "shortDescription": "Secure healthcare systems",
+    "heroSubtitle": "Patient management, clinical workflows, and healthcare operations software built with privacy-aware design, reliable performance, and usability for medical staff and administrators.",
+    "icon": "heart",
+    "challenges": [
+      "Paper-based or fragmented records that slow patient intake and clinical coordination",
+      "Appointment scheduling conflicts and poor visibility across departments",
+      "Systems that are difficult for non-technical medical staff to adopt under daily pressure",
+      "Disconnected billing, pharmacy, and lab modules creating duplicate data entry",
+      "Limited reporting for administrators on utilisation, revenue, and operational bottlenecks"
+    ],
+    "features": [
+      "Patient registration and electronic health record modules",
+      "Appointment scheduling with doctor and resource calendars",
+      "Clinical workflow and visit documentation interfaces",
+      "Pharmacy, lab, and billing integration points",
+      "Role-based access for doctors, nurses, admin, and patients",
+      "Patient portal for appointments, reports, and communication",
+      "Operational dashboards for hospital and clinic management",
+      "Secure data handling with activity logging"
+    ],
+    "useCases": [
+      {
+        "title": "Clinic Management Systems",
+        "description": "End-to-end software for outpatient clinics covering appointments, consultations, prescriptions, and billing in one coherent workflow."
+      },
+      {
+        "title": "Hospital Department Modules",
+        "description": "Targeted systems for OPD, diagnostics, pharmacy, or admin operations that integrate with existing hospital infrastructure."
+      },
+      {
+        "title": "Patient Engagement Portals",
+        "description": "Self-service portals for appointment booking, report access, and follow-up communication that reduce front-desk load."
+      },
+      {
+        "title": "Healthcare Analytics",
+        "description": "Reporting dashboards for bed utilisation, revenue cycles, appointment throughput, and departmental performance tracking."
+      }
+    ],
+    "whoItsFor": [
+      "Multi-specialty clinics digitising patient and billing operations",
+      "Hospitals adding modules to replace manual or legacy systems",
+      "Healthcare startups building specialised patient or provider tools",
+      "Diagnostic chains needing appointment and report delivery workflows"
+    ],
+    "technologies": [
+      "React",
+      "Next.js",
+      "Node.js",
+      ".NET",
+      "PostgreSQL",
+      "REST APIs",
+      "AWS",
+      "Azure",
+      "HL7-ready integration patterns"
+    ],
+    "process": [
+      {
+        "step": "Clinical Workflow Discovery",
+        "description": "We observe and document how staff register patients, conduct visits, prescribe, bill, and report—capturing real operational sequences."
+      },
+      {
+        "step": "UX for High-Pressure Environments",
+        "description": "Interfaces are designed for speed, clarity, and minimal training burden—critical for adoption among busy clinical teams."
+      },
+      {
+        "step": "Modular Development",
+        "description": "Core modules—appointments, records, billing—are built incrementally with staging environments for staff feedback."
+      },
+      {
+        "step": "Integration & Data Migration",
+        "description": "Connections to labs, pharmacy systems, or legacy databases are planned with validation steps to protect data integrity."
+      },
+      {
+        "step": "Training & Go-Live Support",
+        "description": "Staff training materials, phased rollout options, and post-launch support reduce disruption during transition."
+      }
+    ],
+    "content": [
+      "Healthcare software must earn trust from two demanding audiences: clinical staff who need speed and clarity under pressure, and administrators who need accurate records, billing alignment, and operational visibility. Systems that look complete in demos but fail during a busy OPD morning create more harm than the paper processes they replace. WJB Technologies approaches healthcare technology with respect for these realities—workflow-first discovery, usability testing with actual staff scenarios, and architecture that keeps patient data handled responsibly.",
+      "Our healthcare engagements cover clinic management platforms, hospital department modules, patient portals, and operational reporting tools. We work with outpatient clinics modernising appointments and billing, diagnostic chains improving report delivery, and healthcare startups building focused products for specific provider or patient needs. Each project begins by mapping how work actually happens—not how a generic template assumes it should happen.",
+      "Patient registration, appointment scheduling, consultation documentation, prescription handling, lab orders, and billing are interconnected workflows. When built as disconnected modules, staff re-enter the same information repeatedly and errors compound. We design coherent data models so a patient registered once flows through visit, pharmacy, and billing stages without redundant effort. Role-based access ensures doctors, nurses, reception, pharmacy, and finance teams see only what their responsibilities require.",
+      "Patient-facing portals extend value beyond internal efficiency. Appointment booking, report access, and basic communication channels reduce front-desk congestion and improve transparency for patients accustomed to digital services elsewhere. We engineer these portals for mobile-first usage patterns common across India, with performance tuned for variable network conditions.",
+      "We do not claim regulatory compliance outcomes on your behalf. We implement security-conscious development—access control, encrypted transport, input validation, activity logging—appropriate to the sensitivity of healthcare data, while your compliance advisors determine regulatory obligations for your specific context. Integration patterns for labs, pharmacy vendors, or existing hospital systems are documented and tested with validation checkpoints before go-live.",
+      "Healthcare digital transformation succeeds when staff actually use the system. WJB Technologies delivers software that fits clinical rhythm, supported by training, phased rollout planning, and responsive post-launch support as workflows evolve."
+    ],
+    "outcomes": [
+      "Reduced patient wait times through streamlined registration and scheduling",
+      "Single source of truth for patient records across connected modules",
+      "Improved billing accuracy with integrated visit-to-invoice workflows",
+      "Better administrative visibility through operational dashboards",
+      "Higher staff adoption via interfaces designed for real clinical environments"
+    ],
+    "relatedSolutions": ["saas-solutions", "fintech-solutions"],
+    "relatedServices": ["custom-software-development", "mobile-app-development", "ui-ux-design", "maintenance-support"],
+    "metaDescription": "Healthcare software development by WJB Technologies — clinic management, patient portals, appointment systems, and secure medical workflows for providers in India.",
+    "keywords": ["healthcare software India", "clinic management system", "patient portal development", "hospital software development"]
+  },
+  {
+    "slug": "retail-ecommerce",
+    "title": "Retail & eCommerce",
+    "shortDescription": "Modern shopping experiences",
+    "heroSubtitle": "Omnichannel storefronts, inventory systems, and retail operations software that connect online sales, fulfilment, and in-store workflows for Indian retailers and brands.",
+    "icon": "shopping-cart",
+    "challenges": [
+      "Inventory discrepancies between online channels, warehouses, and physical stores",
+      "Checkout flows that abandon customers on slow mobile connections",
+      "Promotions, pricing tiers, and dealer rules too complex for generic storefront templates",
+      "Order fulfilment and returns handled through disconnected spreadsheets",
+      "Limited visibility into product performance, stock levels, and customer behaviour"
+    ],
+    "features": [
+      "Custom e-commerce storefronts with mobile-first UX",
+      "Inventory synchronisation across channels and warehouses",
+      "Order management, fulfilment, and returns workflows",
+      "Dealer and B2B portal capabilities with tiered access",
+      "Payment gateway and COD workflow integration",
+      "Product catalogue with variants, bundles, and promotions",
+      "Admin dashboards for sales, stock, and customer analytics",
+      "Integration with ERP, logistics, and accounting systems"
+    ],
+    "useCases": [
+      {
+        "title": "D2C Brand Storefronts",
+        "description": "Custom online stores for Indian brands needing distinctive catalogue logic, regional shipping rules, and performance on mobile networks."
+      },
+      {
+        "title": "B2B Dealer Portals",
+        "description": "Wholesale ordering platforms with credit limits, bulk pricing, approval workflows, and inventory visibility for distribution networks."
+      },
+      {
+        "title": "Omnichannel Retail",
+        "description": "Systems connecting web orders, store inventory, and warehouse fulfilment so customers and staff see consistent stock information."
+      },
+      {
+        "title": "Marketplace Extensions",
+        "description": "Custom modules extending established platforms when catalogue, integration, or workflow requirements exceed standard template limits."
+      }
+    ],
+    "whoItsFor": [
+      "D2C brands outgrowing marketplace-only sales channels",
+      "Retailers with physical stores adding or improving online commerce",
+      "Distributors needing dealer ordering and inventory portals",
+      "Enterprises requiring custom catalogue or fulfilment logic"
+    ],
+    "technologies": [
+      "Next.js",
+      "React",
+      "Node.js",
+      "PostgreSQL",
+      "Razorpay",
+      "REST APIs",
+      "AWS",
+      "Shopify / WooCommerce extensions",
+      "Redis"
+    ],
+    "process": [
+      {
+        "step": "Commerce Discovery",
+        "description": "We map catalogue structure, pricing rules, fulfilment paths, payment methods, and integration requirements with your operations team."
+      },
+      {
+        "step": "UX & Conversion Design",
+        "description": "Storefront flows, product discovery, and checkout are designed for mobile-first Indian buyers with performance as a priority."
+      },
+      {
+        "step": "Platform Build",
+        "description": "Catalogue, cart, checkout, admin, and inventory modules are developed iteratively with staging environments for stakeholder review."
+      },
+      {
+        "step": "Integration & Launch",
+        "description": "Payment gateways, logistics partners, ERP connections, and analytics tooling are integrated and validated before production rollout."
+      },
+      {
+        "step": "Growth Support",
+        "description": "Post-launch monitoring, conversion improvements, and feature enhancements keep the platform aligned with sales and operational needs."
+      }
+    ],
+    "content": [
+      "Retail and eCommerce in India combine unique pressures: mobile-first shoppers, cash-on-delivery expectations, complex logistics across regions, and catalogue rules that generic templates rarely accommodate. A storefront that looks acceptable in a demo but loads slowly on a 4G connection or cannot handle dealer pricing tiers becomes a liability quickly. WJB Technologies builds retail technology around how your business actually sells—not around a one-size-fits-all shopping cart.",
+      "We develop custom e-commerce platforms, B2B dealer portals, omnichannel inventory systems, and operational dashboards for retailers, D2C brands, and distribution businesses. Engagements range from greenfield online stores to extensions of established platforms when standard features fall short. Discovery focuses on the details that matter: variant logic, promotion rules, warehouse allocation, return workflows, and the integrations that keep finance and operations aligned.",
+      "Performance is not optional for Indian eCommerce. We engineer storefronts with Next.js and modern frontends optimised for fast initial loads, efficient image delivery, and checkout flows that minimise abandonment. Payment integration covers UPI, cards, wallets, and COD workflows as your business requires. Admin tooling gives merchandising and operations teams control over catalogue, stock, orders, and promotions without waiting on developers for routine changes.",
+      "Inventory accuracy separates professional retail operations from constant firefighting. We build synchronisation between online channels, warehouse systems, and physical store stock where applicable—so customers see truthful availability and fulfilment teams work from a single operational picture. B2B dealer portals add another layer: credit limits, bulk order approvals, tiered pricing, and regional catalogue visibility for distribution networks that consumer templates cannot support.",
+      "Retail software connects outward to logistics partners, inward to ERP and accounting systems, and upward to analytics that inform buying and marketing decisions. We implement API integrations and reporting modules with the documentation and error handling that keep these connections maintainable. Post-launch, we support conversion improvements, seasonal feature additions, and performance tuning as your catalogue and customer base grow.",
+      "Whether you are launching your first D2C channel or unifying fragmented retail systems, WJB Technologies delivers commerce software engineered for Indian market realities—with the maintainability and partnership approach that long-term retail growth requires."
+    ],
+    "outcomes": [
+      "Higher mobile conversion through fast, clear shopping and checkout flows",
+      "Accurate inventory visibility across sales channels and warehouses",
+      "Reduced manual order processing via integrated fulfilment workflows",
+      "Flexible catalogue and pricing logic matched to your business rules",
+      "Actionable sales and stock analytics for merchandising and operations teams"
+    ],
+    "relatedSolutions": ["saas-solutions", "fintech-solutions"],
+    "relatedServices": ["ecommerce-development", "web-development", "api-development", "mobile-app-development"],
+    "metaDescription": "Retail and eCommerce development by WJB Technologies — custom storefronts, dealer portals, inventory systems, and omnichannel commerce for Indian retailers.",
+    "keywords": ["eCommerce development India", "retail software solutions", "D2C platform development", "dealer portal development"]
+  }
+]

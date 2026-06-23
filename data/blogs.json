@@ -1,0 +1,417 @@
+[
+  {
+    "slug": "why-indian-smes-are-investing-in-custom-software",
+    "title": "Why Indian SMEs Are Investing in Custom Software in 2026",
+    "category": "Industry Insights",
+    "excerpt": "Off-the-shelf tools no longer fit growing Indian businesses. Here is why custom software has become a practical priority—not a luxury.",
+    "author": "WJB Technologies",
+    "publishedDate": "2026-01-15",
+    "readTime": "6 min",
+    "tags": ["SME", "Digital Transformation", "India"],
+    "content": [
+      "Indian small and medium enterprises are under pressure to move faster. Customer expectations have shifted toward digital self-service, real-time updates, and mobile-first experiences. Spreadsheets and disconnected tools that worked five years ago now create bottlenecks—delayed reporting, duplicate data entry, and teams working from outdated information.",
+      "Custom software addresses these problems by mapping directly to how your business actually operates. Instead of forcing teams to adapt to generic SaaS workflows, you design systems around your approval chains, inventory logic, dealer networks, or service delivery model. That alignment reduces training friction and improves adoption, which is where many digital initiatives fail.",
+      "Cost perception remains a barrier. Many SME leaders assume custom development is reserved for large enterprises. In practice, phased delivery makes investment manageable: start with a focused module that solves one expensive pain point, validate ROI, then expand. A well-scoped MVP can replace manual processes that consume hours every week across multiple staff members.",
+      "Indian market conditions also favour tailored solutions. GST compliance, regional language needs, payment gateway preferences, and mobile connectivity patterns differ from Western defaults baked into global products. Custom builds let you integrate local requirements without awkward workarounds or costly third-party plugins.",
+      "Security and data ownership matter more as businesses digitise. When customer records, pricing, and operational data live across multiple cloud tools, visibility and control weaken. A unified platform—owned and documented by your organisation—supports clearer access policies and simpler audits.",
+      "The competitive argument is straightforward: if your rivals respond faster to enquiries, fulfil orders more reliably, or give managers better dashboards, they gain ground regardless of product quality alone. Software that tightens operations becomes a business capability, not an IT project.",
+      "WJB Technologies works with Indian SMEs across manufacturing, retail, logistics, and services to scope software that earns its budget through measurable efficiency gains. The right starting question is not which technology to use, but which operational problem—if solved—would pay for the investment within twelve months."
+    ],
+    "relatedPosts": [
+      "choosing-between-custom-software-and-saas",
+      "digital-transformation-roadmap-for-manufacturers",
+      "how-to-scope-an-mvp-for-your-startup"
+    ],
+    "metaDescription": "Why Indian SMEs are prioritising custom software in 2026—practical drivers, phased delivery, and local market fit explained by WJB Technologies.",
+    "keywords": ["custom software SME India", "digital transformation SME", "business software India"]
+  },
+  {
+    "slug": "choosing-between-custom-software-and-saas",
+    "title": "Choosing Between Custom Software and SaaS for Your Business",
+    "category": "Best Practices",
+    "excerpt": "SaaS is fast to start. Custom software fits unique workflows. A clear framework helps you decide without expensive mistakes.",
+    "author": "WJB Technologies",
+    "publishedDate": "2026-01-08",
+    "readTime": "5 min",
+    "tags": ["SaaS", "Strategy", "Build vs Buy"],
+    "content": [
+      "Every growing business eventually faces the build-versus-buy decision. SaaS products offer quick setup, predictable subscriptions, and maintained infrastructure. Custom software offers precision—systems shaped around processes that may be your competitive advantage.",
+      "SaaS makes strong sense when your workflows are standard. Accounting, email marketing, and basic CRM needs often map cleanly to established products. Implementation is faster, and your team benefits from continuous vendor improvements without managing deployments.",
+      "Custom software becomes compelling when differentiation lives in operations. If your fulfilment model, pricing logic, partner portal, or compliance workflow is unusual, forcing it into a generic SaaS structure creates manual gaps—exporting CSVs, maintaining shadow spreadsheets, or paying for integrations that break after vendor updates.",
+      "Total cost of ownership surprises many teams. SaaS fees accumulate per user and per module. Over three to five years, a heavily customised SaaS stack with integrations can approach custom build costs—without giving you full ownership of the codebase or freedom from vendor roadmap changes.",
+      "A practical decision framework: list your top five operational workflows. Score each as standard, moderately unique, or core differentiator. If most are standard, buy. If two or more are core differentiators, invest in custom design for those areas while keeping SaaS for commodity functions.",
+      "Hybrid approaches work well. Use SaaS for HR payroll or email while building a custom operations hub that integrates via APIs. WJB Technologies often architects these blended environments so clients avoid both over-engineering and under-serving critical workflows.",
+      "The goal is not to pick a ideology—it is to match software strategy to business reality. Make the decision with a three-year view, include adoption costs, and involve the people who run the process daily—not only IT."
+    ],
+    "relatedPosts": [
+      "why-indian-smes-are-investing-in-custom-software",
+      "api-first-architecture-explained",
+      "software-maintenance-what-to-expect-after-launch"
+    ],
+    "metaDescription": "A practical guide to choosing between custom software and SaaS—frameworks, costs, and hybrid approaches from WJB Technologies.",
+    "keywords": ["custom software vs SaaS", "build vs buy software", "software strategy"]
+  },
+  {
+    "slug": "nextjs-for-business-websites-why-it-matters",
+    "title": "Next.js for Business Websites: Why It Matters in 2026",
+    "category": "Technology Trends",
+    "excerpt": "Performance, SEO, and maintainability make Next.js a strong choice for serious business web platforms—not just marketing sites.",
+    "author": "WJB Technologies",
+    "publishedDate": "2025-12-20",
+    "readTime": "5 min",
+    "tags": ["Next.js", "Web Development", "Performance"],
+    "content": [
+      "Business websites are no longer static brochures. They support lead capture, customer portals, content publishing, and integrations with internal tools. The technology underneath must handle performance expectations, search visibility, and future feature growth without a full rebuild.",
+      "Next.js addresses these needs through a modern React framework with flexible rendering strategies. Pages that benefit from fast initial load can be statically generated. Dynamic sections—dashboards, authenticated areas, personalised content—can use server rendering or incremental updates as requirements evolve.",
+      "Performance directly affects conversion. Slow mobile experiences hurt especially in India, where users often browse on mid-range devices and variable networks. Next.js encourages optimised asset delivery, code splitting, and image handling patterns that keep pages responsive without heroic manual tuning.",
+      "SEO remains critical for B2B discovery. Clean routing, metadata control, and structured content architectures help search engines understand your services and geography. For companies targeting both local and national audiences, that visibility compounds over months of consistent publishing.",
+      "Developer experience and maintainability matter for total cost of ownership. Next.js has a large ecosystem, clear conventions, and strong TypeScript support—making it easier to onboard developers and sustain code quality across years. That reduces risk compared to bespoke frameworks with smaller communities.",
+      "Security and deployment options have matured. Whether hosting on Vercel, AWS, or static export to CDN infrastructure, teams can choose models that match compliance and operations comfort. WJB Technologies uses Next.js for marketing sites and complex web applications where long-term extensibility is a requirement.",
+      "Choosing Next.js is not about chasing trends—it is about aligning frontend architecture with business growth. If your web presence is strategic, the stack should support iteration without penalising speed or search performance."
+    ],
+    "relatedPosts": [
+      "progressive-web-apps-vs-native-apps",
+      "web-performance-tips-for-indian-audiences",
+      "ui-ux-principles-for-b2b-software"
+    ],
+    "metaDescription": "Why Next.js is a strong choice for business websites in 2026—performance, SEO, and long-term maintainability explained.",
+    "keywords": ["Next.js business website", "React web development", "performance SEO"]
+  },
+  {
+    "slug": "progressive-web-apps-vs-native-apps",
+    "title": "Progressive Web Apps vs Native Apps: A Practical Comparison",
+    "category": "Technology Trends",
+    "excerpt": "PWAs and native apps each have a place. Understand trade-offs in cost, performance, offline use, and app store presence.",
+    "author": "WJB Technologies",
+    "publishedDate": "2025-12-05",
+    "readTime": "6 min",
+    "tags": ["PWA", "Mobile", "Architecture"],
+    "content": [
+      "Mobile strategy decisions often default to native iOS and Android builds. That can be right—but Progressive Web Apps deserve serious consideration, especially when budget, timeline, and audience behaviour align with web-first delivery.",
+      "PWAs run in the browser but can be installed on home screens, send push notifications in supported environments, and cache assets for offline or low-connectivity use. One codebase serves multiple platforms, reducing development and maintenance cost compared with separate native projects.",
+      "Native apps still lead where deep device integration is essential: advanced Bluetooth hardware, background geolocation with fine control, complex offline data sync, or platform-specific UX expectations at the highest level. Consumer apps competing on polish and store discovery often justify native investment.",
+      "For B2B field tools, internal employee apps, and customer portals, PWAs frequently deliver sufficient capability. Teams already have phones with modern browsers; app store friction disappears; updates deploy instantly without waiting for user downloads and store approvals.",
+      "Performance gaps have narrowed. Well-engineered PWAs with thoughtful caching and lean bundles feel responsive for many business workflows. The key is honest scoping—don't promise app-store-grade animations and hardware features a PWA cannot reliably support.",
+      "Distribution strategy influences the choice. If your users find you through app store search, native presence matters. If users arrive via email links, QR codes on invoices, or internal IT rollout, a PWA link may be faster to adopt.",
+      "WJB Technologies evaluates connectivity patterns, device features, user demographics, and release cadence before recommending PWA, native, or cross-platform approaches. The best choice is the one your users will actually install and use—not the one that looks best in a pitch deck."
+    ],
+    "relatedPosts": [
+      "nextjs-for-business-websites-why-it-matters",
+      "cross-platform-development-when-it-makes-sense",
+      "how-to-scope-an-mvp-for-your-startup"
+    ],
+    "metaDescription": "PWAs vs native apps—a practical comparison of cost, performance, offline capability, and distribution for business mobile strategy.",
+    "keywords": ["PWA vs native app", "progressive web app business", "mobile strategy"]
+  },
+  {
+    "slug": "agile-software-delivery-what-clients-should-expect",
+    "title": "Agile Software Delivery: What Clients Should Expect",
+    "category": "Software Development",
+    "excerpt": "Agile is widely used but often misunderstood. Here is what transparent sprint-based delivery looks like from a client perspective.",
+    "author": "WJB Technologies",
+    "publishedDate": "2025-11-22",
+    "readTime": "5 min",
+    "tags": ["Agile", "Project Management", "Delivery"],
+    "content": [
+      "Agile software development promises flexibility and frequent feedback. Without clear expectations, it can also feel chaotic—changing scope, unclear timelines, and demos that don't reflect production readiness. Clients deserve a concrete picture of how disciplined Agile works.",
+      "Effective engagements begin with discovery: documented goals, user roles, constraints, and success metrics. Agile does not mean skipping planning—it means planning in layers. A roadmap provides direction; sprints deliver incremental value against prioritised backlog items.",
+      "Each sprint typically runs two to three weeks and ends with a demo of working software—not slides. Clients see progress, approve direction, and reprioritise based on learning. This rhythm reduces the risk of discovering misalignment only at a distant launch date.",
+      "Transparency includes visible backlog, sprint goals, and honest blockers. If a third-party API is unstable or a requirement needs clarification, surfacing that early protects schedule credibility. Agile succeeds when communication is direct, not when it is used to avoid commitments altogether.",
+      "Scope changes are expected but managed. New ideas go into the backlog, prioritised against existing work with explicit trade-offs. That prevents silent creep while keeping the product responsive to business shifts.",
+      "Quality activities run inside sprints—not only at the end. Code review, automated checks, and targeted testing stabilise each increment so demos represent maintainable progress, not fragile prototypes.",
+      "WJB Technologies aligns Agile ceremonies with client availability: concise standup summaries, demo recordings when needed, and written sprint notes for stakeholders who cannot attend live. The outcome is predictable collaboration—not methodology theatre."
+    ],
+    "relatedPosts": [
+      "how-to-prepare-for-a-software-project-kickoff",
+      "software-testing-why-it-cannot-be-an-afterthought",
+      "wjb-technologies-expands-service-offerings"
+    ],
+    "metaDescription": "What clients should expect from Agile software delivery—sprints, demos, scope management, and quality practices explained clearly.",
+    "keywords": ["Agile software delivery", "sprint demo client", "software project expectations"]
+  },
+  {
+    "slug": "how-to-scope-an-mvp-for-your-startup",
+    "title": "How to Scope an MVP for Your Startup",
+    "category": "Software Development",
+    "excerpt": "A strong MVP proves value with minimal scope. Learn how to cut noise, prioritise ruthlessly, and launch faster without regrets.",
+    "author": "WJB Technologies",
+    "publishedDate": "2025-11-10",
+    "readTime": "6 min",
+    "tags": ["MVP", "Startup", "Product Strategy"],
+    "content": [
+      "Startups often treat MVP as a smaller version of a dream product. That misunderstanding burns runway. A minimum viable product should test a specific hypothesis with the least functionality required to learn from real users—not impress them with completeness.",
+      "Start with one sentence: what must we prove? Examples include whether dealers will place orders through a portal, whether patients will book appointments without phone calls, or whether managers will trust a dashboard fed from existing spreadsheets. Every feature suggestion must serve that proof.",
+      "List candidate features, then mark each as must-have, nice-to-have, or later. Must-haves directly enable the core user journey. Nice-to-haves improve comfort but delay learning. Later items belong on a post-validation roadmap. Founders who protect must-haves discipline launch timelines.",
+      "Manual backends are acceptable in early MVPs. Concierge workflows—where humans fulfil part of the process behind the scenes—can validate demand before you automate expensive logic. Software engineering should follow evidence, not precede it.",
+      "Design for measurement. Define events you will track: signups completed, orders submitted, repeat visits, support requests. Without metrics, MVP launch produces anecdotes instead of decisions.",
+      "Technical choices should favour speed and flexibility, not premature scale. A maintainable monolith or focused Next.js application often outperforms microservices for early stage products. Architecture can evolve when usage justifies complexity.",
+      "WJB Technologies helps startups translate vision into phased delivery plans with realistic budgets and demo milestones. A well-scoped MVP reduces regret—you launch knowing what you validated and what you deliberately postponed."
+    ],
+    "relatedPosts": [
+      "choosing-between-custom-software-and-saas",
+      "progressive-web-apps-vs-native-apps",
+      "why-indian-smes-are-investing-in-custom-software"
+    ],
+    "metaDescription": "How to scope a startup MVP—hypothesis-driven features, prioritisation, and phased delivery guidance from WJB Technologies.",
+    "keywords": ["MVP scoping startup", "minimum viable product", "startup software development"]
+  },
+  {
+    "slug": "digital-transformation-roadmap-for-manufacturers",
+    "title": "A Practical Digital Transformation Roadmap for Manufacturers",
+    "category": "Industry Insights",
+    "excerpt": "Manufacturers can digitise incrementally. This roadmap prioritises shop-floor visibility, inventory accuracy, and customer order tracking.",
+    "author": "WJB Technologies",
+    "publishedDate": "2025-10-28",
+    "readTime": "7 min",
+    "tags": ["Manufacturing", "ERP", "Operations"],
+    "content": [
+      "Manufacturing digital transformation is rarely a single ERP go-live moment. Plants run with legacy habits, equipment constraints, and staff who trust paper when systems fail. Successful programmes respect that reality and sequence improvements that earn trust on the floor.",
+      "Phase one typically targets visibility: production status, inventory positions, and order fulfilment tracking in one dashboard. Even when data starts partially manual, centralising truth reduces phone calls and arguments about what shipped yesterday.",
+      "Phase two integrates machines and departmental systems where ROI is clear—barcode scanning at packing stations, automated alerts for low stock, or QC checkpoints captured digitally instead of clipboards. Each integration should remove a specific daily friction, not chase technology for its own sake.",
+      "Phase three connects customers and suppliers. Dealer portals, shipment notifications, and vendor PO acknowledgements reduce inbound enquiry load on sales and admin teams. External-facing improvements often fund further internal investment through retained business and faster collections.",
+      "Change management equals technology importance. Train shifts with role-specific screens, not generic manuals. Identify floor champions who troubleshoot basic issues. Software adoption in manufacturing lives or dies with supervisor endorsement.",
+      "Cybersecurity and access control cannot lag behind connectivity. Role-based permissions, VPN or zero-trust access for remote views, and backup discipline protect operations from disruptions that dwarf software licence costs.",
+      "WJB Technologies supports Indian manufacturers with modular software—expanding from reporting hubs to integrated production and partner workflows as readiness allows. Transformation is a multi-year capability build, not a weekend install."
+    ],
+    "relatedPosts": [
+      "why-indian-smes-are-investing-in-custom-software",
+      "api-first-architecture-explained",
+      "cloud-migration-checklist-for-growing-businesses"
+    ],
+    "metaDescription": "Digital transformation roadmap for manufacturers—phased visibility, integration, and partner connectivity guidance for Indian plants.",
+    "keywords": ["manufacturing digital transformation", "factory software India", "production dashboard"]
+  },
+  {
+    "slug": "api-first-architecture-explained",
+    "title": "API-First Architecture Explained for Business Leaders",
+    "category": "Technology Trends",
+    "excerpt": "APIs are not just technical plumbing—they are how modern businesses connect products, partners, and data safely.",
+    "author": "WJB Technologies",
+    "publishedDate": "2025-10-12",
+    "readTime": "5 min",
+    "tags": ["API", "Architecture", "Integration"],
+    "content": [
+      "API-first architecture means designing software capabilities as well-defined services that other systems can consume—mobile apps, partner portals, reporting tools, or future products you have not built yet. Business leaders should care because it affects agility, integration cost, and vendor independence.",
+      "Without APIs, each new channel requires custom, brittle connections into legacy databases or monolithic code. Teams duplicate logic, security inconsistencies appear, and every change risks breaking unrelated features. APIs create a stable contract layer between core business logic and everything that touches customers or staff.",
+      "A practical example: an inventory service exposes endpoints for stock checks, reservations, and adjustments. The website, dealer app, and warehouse scanner all use the same rules instead of maintaining separate calculations that drift apart during busy seasons.",
+      "API-first does not mandate microservices on day one. A modular monolith with clear internal boundaries can evolve into separated services when scale demands. The mindset—explicit interfaces and documented behaviour—matters more than immediate infrastructure complexity.",
+      "Security and governance belong in the API layer: authentication tokens, rate limits, audit logs, and role scopes. Centralising these controls reduces gaps compared with ad hoc database access from multiple tools.",
+      "Documentation and versioning prevent partner frustration. When APIs change, consumers need migration paths. Treating APIs as products—with changelogs and support expectations—builds ecosystems rather than one-off integrations.",
+      "WJB Technologies designs API layers that match client maturity, from internal mobile enablement to external partner programmes. Investing in APIs is investing in optionality—the ability to add channels without rewriting your core."
+    ],
+    "relatedPosts": [
+      "choosing-between-custom-software-and-saas",
+      "cloud-migration-checklist-for-growing-businesses",
+      "agile-software-delivery-what-clients-should-expect"
+    ],
+    "metaDescription": "API-first architecture explained for business leaders—integration agility, security, and long-term flexibility without jargon overload.",
+    "keywords": ["API first architecture", "business API strategy", "software integration"]
+  },
+  {
+    "slug": "ui-ux-principles-for-b2b-software",
+    "title": "UI/UX Principles That Make B2B Software Actually Get Used",
+    "category": "Best Practices",
+    "excerpt": "B2B software fails when teams avoid it. These design principles prioritise clarity, speed, and role-specific workflows.",
+    "author": "WJB Technologies",
+    "publishedDate": "2025-09-25",
+    "readTime": "5 min",
+    "tags": ["UI/UX", "B2B", "Product Design"],
+    "content": [
+      "Enterprise and B2B tools often prioritise feature checklists over daily usability. The result is powerful software that staff resist—reverting to spreadsheets, WhatsApp threads, and unofficial workarounds that undermine your investment.",
+      "Start with role-based entry points. A warehouse operator and a finance manager should not land on the same overwhelming dashboard. Each role needs a focused home screen showing tasks, exceptions, and metrics they can act on immediately.",
+      "Reduce cognitive load through consistent patterns. Repeated button placements, predictable table filters, and clear empty states speed adoption more than visual novelty. B2B users value efficiency over delight animations.",
+      "Design for interruption. B2B work happens between phone calls, floor walks, and meetings. Flows should tolerate partial completion, autosave sensibly, and recover gracefully from session timeouts without data loss panic.",
+      "Validate with real tasks, not opinion polls. Ask users to complete specific jobs—approve a PO, reconcile a shipment, onboard a dealer—while observing hesitation and errors. Qualitative friction points guide iteration better than abstract satisfaction scores alone.",
+      "Accessibility and legibility matter on factory floors and bright offices alike. Contrast, font sizing, and touch targets suitable for gloves or tablets are not optional niceties—they determine whether software works where work happens.",
+      "WJB Technologies pairs UI/UX design with domain discovery so interfaces reflect operational language and sequence. Software that respects how people already work—while improving it—earns daily opens instead of shelfware status."
+    ],
+    "relatedPosts": [
+      "agile-software-delivery-what-clients-should-expect",
+      "nextjs-for-business-websites-why-it-matters",
+      "how-to-prepare-for-a-software-project-kickoff"
+    ],
+    "metaDescription": "UI/UX principles for B2B software adoption—role-based design, task validation, and workflow clarity from WJB Technologies.",
+    "keywords": ["B2B UI UX design", "enterprise software usability", "business app design"]
+  },
+  {
+    "slug": "software-testing-why-it-cannot-be-an-afterthought",
+    "title": "Software Testing: Why It Cannot Be an Afterthought",
+    "category": "Software Development",
+    "excerpt": "Testing left until the end creates expensive surprises. Integrate QA throughout delivery to protect reputation and revenue.",
+    "author": "WJB Technologies",
+    "publishedDate": "2025-09-10",
+    "readTime": "5 min",
+    "tags": ["QA", "Testing", "Quality"],
+    "content": [
+      "Treating testing as a final gate before launch invites compressed schedules, skipped edge cases, and production defects that damage customer trust. Quality assurance works best as a continuous practice woven into development—not a cleanup phase.",
+      "Early testing includes requirements review and prototype validation. Catching ambiguous business rules before code is written prevents rework that multiplies cost. QA involvement at planning stages is disproportionately valuable.",
+      "Automated tests stabilise core logic—pricing calculations, permission checks, API contracts—so developers refactor confidently. Manual exploratory testing remains essential for complex user journeys and visual issues automation misses.",
+      "Regression suites protect existing behaviour when new features ship. Without them, teams fear change, slowing innovation. Investment in regression coverage pays back in velocity, not only defect reduction.",
+      "Performance and security testing address risks functional checks ignore. Slow reports under load or exposed endpoints can cause incidents as painful as visible bugs. Schedule these activities for realistic environments, not only developer laptops.",
+      "Defect triage should be business-aware. Not every cosmetic issue blocks release; critical payment or data integrity failures must. Clear severity definitions align technical and stakeholder decisions.",
+      "WJB Technologies embeds testing milestones in sprint plans with traceability from requirements to test cases. Clients see quality status alongside feature progress—because reliable software is a deliverable, not a hope."
+    ],
+    "relatedPosts": [
+      "agile-software-delivery-what-clients-should-expect",
+      "software-maintenance-what-to-expect-after-launch",
+      "ui-ux-principles-for-b2b-software"
+    ],
+    "metaDescription": "Why software testing must be continuous—not a pre-launch afterthought. QA practices that protect B2B software quality.",
+    "keywords": ["software testing QA", "continuous testing", "quality assurance development"]
+  },
+  {
+    "slug": "cloud-migration-checklist-for-growing-businesses",
+    "title": "Cloud Migration Checklist for Growing Businesses",
+    "category": "Technology Trends",
+    "excerpt": "Moving to the cloud should improve reliability—not create outages. Use this checklist before migrating production workloads.",
+    "author": "WJB Technologies",
+    "publishedDate": "2025-08-18",
+    "readTime": "6 min",
+    "tags": ["Cloud", "Migration", "Infrastructure"],
+    "content": [
+      "Cloud migration promises scalability and reduced hardware management, but rushed moves cause downtime, data issues, and surprise bills. Growing businesses need a checklist grounded in operational continuity, not vendor marketing.",
+      "Inventory applications and dependencies first. Map databases, file storage, scheduled jobs, third-party integrations, and IP allowlists. Unknown dependencies cause the majority of migration weekend failures.",
+      "Classify workloads by sensitivity and complexity. Migrate low-risk internal tools early to build confidence. Delay monolithic systems with undocumented batch processes until you have rollback plans and parallel run strategies.",
+      "Define environment parity. Development, staging, and production should resemble each other enough that testing matters. Skipping staging to save time often produces production-only bugs that are expensive under pressure.",
+      "Plan data migration with verification steps—record counts, checksums, and spot audits—not only copy completion messages. Backup before cutover and practise restore procedures; optimism is not a disaster recovery strategy.",
+      "Cost governance belongs upfront. Right-size instances, set billing alerts, and understand egress charges. Cloud savings appear when usage matches actual patterns, not when everything runs at peak specification 'just in case.'",
+      "WJB Technologies helps clients migrate incrementally—often containerising or rehosting first, then optimising architecture as traffic and compliance requirements clarify. Successful cloud adoption is operational discipline, not a single technical event."
+    ],
+    "relatedPosts": [
+      "api-first-architecture-explained",
+      "digital-transformation-roadmap-for-manufacturers",
+      "software-maintenance-what-to-expect-after-launch"
+    ],
+    "metaDescription": "Cloud migration checklist for growing businesses—inventory, staging, data verification, and cost governance before go-live.",
+    "keywords": ["cloud migration checklist", "business cloud migration", "AWS migration India"]
+  },
+  {
+    "slug": "how-to-prepare-for-a-software-project-kickoff",
+    "title": "How to Prepare for a Software Project Kickoff",
+    "category": "Best Practices",
+    "excerpt": "Kickoff meetings set the tone for months of collaboration. Prepare these materials to start fast and avoid early confusion.",
+    "author": "WJB Technologies",
+    "publishedDate": "2025-08-05",
+    "readTime": "4 min",
+    "tags": ["Kickoff", "Planning", "Client Guide"],
+    "content": [
+      "A software project kickoff is more than introductions—it aligns stakeholders on goals, constraints, communication rhythms, and what success looks like at each phase. Clients who arrive prepared compress weeks of early ambiguity.",
+      "Share business context: who you serve, how you make money, and which operational problem this project addresses. Technical teams make better decisions when they understand commercial stakes—not only feature lists.",
+      "Bring existing artefacts: workflow diagrams, sample reports, brand guidelines, integration credentials for sandbox environments, and examples of systems you like or dislike. Visual references accelerate shared understanding.",
+      "Identify decision makers and availability. Delayed approvals stall sprints faster than coding challenges. Name who can approve scope, design, and UAT sign-off—and backup contacts for travel or festival seasons.",
+      "Discuss risks openly: legacy data quality, regulatory constraints, seasonal peak periods where changes are forbidden, and internal IT policies. Surprises discovered late erode trust; early transparency enables planning.",
+      "Agree communication channels and response expectations. Weekly demos, shared documentation space, and escalation paths prevent issues from festering in chat threads nobody monitors.",
+      "WJB Technologies provides kickoff agendas and discovery templates so clients know what to prepare. Strong starts correlate with projects that feel controlled—not chaotic—from the first sprint onward."
+    ],
+    "relatedPosts": [
+      "agile-software-delivery-what-clients-should-expect",
+      "how-to-scope-an-mvp-for-your-startup",
+      "ui-ux-principles-for-b2b-software"
+    ],
+    "metaDescription": "How to prepare for a software project kickoff—documents, stakeholders, risks, and communication essentials for clients.",
+    "keywords": ["software project kickoff", "project preparation client", "discovery meeting software"]
+  },
+  {
+    "slug": "wjb-technologies-expands-service-offerings",
+    "title": "WJB Technologies Expands Service Offerings for 2026",
+    "category": "Company Updates",
+    "excerpt": "We now offer 18 structured service lines—from UI/UX and testing to cloud apps and software consulting—under one delivery team.",
+    "author": "WJB Technologies",
+    "publishedDate": "2025-07-20",
+    "readTime": "3 min",
+    "tags": ["Company News", "Services", "WJB"],
+    "content": [
+      "WJB Technologies has formalised its service portfolio into eighteen focused practice areas, making it easier for clients to find expertise aligned with specific goals—whether launching a new product, modernising legacy systems, or establishing long-term support.",
+      "The expanded catalogue includes dedicated offerings for progressive web apps, cross-platform development, enterprise applications, database engineering, API development, software testing, e-commerce, CMS platforms, and strategic consulting alongside our core web and mobile practices.",
+      "Consolidation under one team preserves architectural coherence. Clients no longer need separate vendors for design, development, QA, and deployment—reducing integration gaps and accountability disputes when issues arise.",
+      "Each service page documents deliverables, typical process, technologies, and engagement expectations so procurement and technical stakeholders share the same baseline before conversations begin.",
+      "Our Vadodara headquarters remains the centre of delivery, with remote collaboration across India. Business hours and support models are unchanged—this update clarifies what we do, not who we are.",
+      "If you are evaluating partners for an upcoming initiative, explore the services overview or contact us with your requirements. We will recommend a phased plan grounded in your timeline and budget—not a generic bundle."
+    ],
+    "relatedPosts": [
+      "why-indian-smes-are-investing-in-custom-software",
+      "agile-software-delivery-what-clients-should-expect",
+      "how-to-prepare-for-a-software-project-kickoff"
+    ],
+    "metaDescription": "WJB Technologies expands its 2026 service offerings across 18 practice areas—web, mobile, cloud, QA, design, and consulting.",
+    "keywords": ["WJB Technologies news", "software services India", "IT company Vadodara"]
+  },
+  {
+    "slug": "software-maintenance-what-to-expect-after-launch",
+    "title": "Software Maintenance: What to Expect After Launch",
+    "category": "Company Updates",
+    "excerpt": "Launch day is a milestone—not the finish line. Understand ongoing maintenance, support tiers, and when to plan enhancements.",
+    "author": "WJB Technologies",
+    "publishedDate": "2025-07-08",
+    "readTime": "5 min",
+    "tags": ["Maintenance", "Support", "Post-Launch"],
+    "content": [
+      "Software launch receives disproportionate attention compared with the years that follow. Yet maintenance determines whether your platform stays secure, compatible with browsers and devices, and aligned with evolving business rules.",
+      "Maintenance includes corrective work—bug fixes—and adaptive work when regulations, tax rules, or partner APIs change. Perfective improvements enhance performance or usability without altering core scope. Clients should expect all three categories over a system's life.",
+      "Infrastructure monitoring, backups, certificate renewals, and dependency updates are unglamorous but essential. Neglecting them produces sudden outages that cost more than modest ongoing care.",
+      "Support expectations should be documented: response times by severity, channels for requests, and what constitutes billable enhancement versus included stabilisation. Clarity prevents relationship strain when urgent requests arrive on Friday evenings.",
+      "Enhancement roadmaps benefit from quarterly reviews. Usage data, support tickets, and stakeholder interviews reveal where the next investment yields value—new modules, integrations, or performance tuning.",
+      "Knowledge transfer at launch—documentation, admin training, and access to repositories—empowers internal teams to handle routine tasks while specialists address complex changes.",
+      "WJB Technologies offers structured maintenance and support engagements so clients are not stranded after go-live. Planning for life after launch is how software continues to earn trust—and revenue—for the business it serves."
+    ],
+    "relatedPosts": [
+      "software-testing-why-it-cannot-be-an-afterthought",
+      "choosing-between-custom-software-and-saas",
+      "wjb-technologies-expands-service-offerings"
+    ],
+    "metaDescription": "What to expect from software maintenance after launch—support tiers, updates, enhancements, and long-term platform care.",
+    "keywords": ["software maintenance support", "post launch software care", "application support India"]
+  },
+  {
+    "slug": "web-performance-tips-for-indian-audiences",
+    "title": "Web Performance Tips for Indian Mobile Audiences",
+    "category": "Industry Insights",
+    "excerpt": "Indian users browse on diverse devices and networks. Optimise your site for real conditions—not only lab benchmarks.",
+    "author": "WJB Technologies",
+    "publishedDate": "2025-06-22",
+    "readTime": "5 min",
+    "tags": ["Performance", "Mobile", "India"],
+    "content": [
+      "Global performance advice often assumes fast fibre and flagship phones. Indian audiences frequently use mid-range Android devices, shared networks, and limited data plans. Websites that feel acceptable in developer tools may frustrate real customers.",
+      "Prioritise initial payload size. Defer non-critical scripts, compress images aggressively, and serve modern formats where supported. Hero sections should render meaningful content quickly—even if secondary animations load later.",
+      "Reduce third-party script bloat. Marketing tags, chat widgets, and analytics accumulations silently degrade mobile experience. Audit tags quarterly and remove those nobody analyses.",
+      "Cache static assets with long-lived headers and CDN distribution close to Indian users. Repeat visits should feel substantially faster than first loads—a major win for returning B2B buyers researching vendors.",
+      "Test on representative devices and throttled connections, not only desktop Chrome. Real device labs or field testing in your target regions reveal layout and touch issues emulators miss.",
+      "Monitor Core Web Vitals in production. Field data beats synthetic scores because it captures actual user conditions—including peak business hours when your site matters most.",
+      "WJB Technologies builds performance budgets into web projects from discovery onward. Fast sites respect users' time and improve conversion—especially in markets where patience for slow pages is thin and alternatives are one search away."
+    ],
+    "relatedPosts": [
+      "nextjs-for-business-websites-why-it-matters",
+      "progressive-web-apps-vs-native-apps",
+      "why-indian-smes-are-investing-in-custom-software"
+    ],
+    "metaDescription": "Web performance tips optimised for Indian mobile audiences—payload, caching, testing, and real-world speed strategies.",
+    "keywords": ["web performance India", "mobile website speed", "Core Web Vitals India"]
+  },
+  {
+    "slug": "cross-platform-development-when-it-makes-sense",
+    "title": "Cross-Platform Development: When It Makes Sense",
+    "category": "Software Development",
+    "excerpt": "React Native and Flutter can accelerate mobile delivery—but only when trade-offs are understood and scope fits.",
+    "author": "WJB Technologies",
+    "publishedDate": "2025-06-10",
+    "readTime": "5 min",
+    "tags": ["Cross-Platform", "Mobile", "React Native"],
+    "content": [
+      "Cross-platform frameworks promise one codebase for iOS and Android, reducing cost and synchronising releases. That promise holds when application complexity, performance needs, and device integrations align with framework strengths.",
+      "Choose cross-platform when user journeys are form- and API-driven—field data collection, catalogues, approval workflows, customer portals—rather than graphics-intensive or deeply hardware-coupled experiences.",
+      "Team skills influence sustainability. React Native fits teams with strong React web experience. Flutter offers consistent UI rendering with Dart expertise requirements. Pick tooling your organisation can maintain after vendor handover.",
+      "Native modules may still be needed for specific Bluetooth, background processing, or platform SDK integrations. Budget contingency for native bridge work instead of assuming pure cross-platform coverage.",
+      "UI polish expectations should be realistic. Frameworks narrow the gap with native, but highly customised animations or platform-perfect nuances may cost more than they save.",
+      "Release processes still involve app store compliance, signing certificates, and platform-specific testing. Cross-platform shares logic—not operational overhead entirely.",
+      "WJB Technologies recommends cross-platform approaches after workflow analysis—not marketing defaults. The right mobile strategy matches users, timeline, and total cost across two years, not only launch month invoices."
+    ],
+    "relatedPosts": [
+      "progressive-web-apps-vs-native-apps",
+      "how-to-scope-an-mvp-for-your-startup",
+      "software-testing-why-it-cannot-be-an-afterthought"
+    ],
+    "metaDescription": "When cross-platform mobile development makes sense—React Native, Flutter, trade-offs, and scoping guidance for business apps.",
+    "keywords": ["cross platform mobile development", "React Native business app", "Flutter vs native"]
+  }
+]

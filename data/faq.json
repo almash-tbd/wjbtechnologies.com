@@ -1,0 +1,94 @@
+[
+  {
+    "id": "general",
+    "title": "General",
+    "faqs": [
+      {
+        "question": "What services does WJB Technologies provide?",
+        "answer": "WJB Technologies provides end-to-end software development services including web development, mobile applications, desktop software, custom enterprise solutions, UI/UX design, API development, cloud applications, testing, maintenance, and technology consulting for businesses in India and abroad."
+      },
+      {
+        "question": "Which industries do you work with?",
+        "answer": "We work with organisations across manufacturing, healthcare, education, retail, distribution, professional services, logistics, and technology-led startups. Our solutions are tailored to each industry's operational workflows and compliance needs."
+      },
+      {
+        "question": "Do you work with startups as well as established enterprises?",
+        "answer": "Yes. We support early-stage product builds, growth-stage platform scaling, and enterprise modernisation initiatives. Our engagement models flex to match your team size, timeline, and technical maturity."
+      },
+      {
+        "question": "Where is WJB Technologies located?",
+        "answer": "Our headquarters is in Vadodara, Gujarat, India. We also support remote collaboration for clients across India and international markets."
+      }
+    ]
+  },
+  {
+    "id": "projects",
+    "title": "Projects and Delivery",
+    "faqs": [
+      {
+        "question": "How do you start a new software project?",
+        "answer": "Every project begins with a discovery phase where we understand your business goals, users, existing systems, and success criteria. We then propose architecture, milestones, and a delivery plan before development begins."
+      },
+      {
+        "question": "What development methodology do you follow?",
+        "answer": "We typically follow Agile practices with iterative sprints, regular demos, and continuous feedback. For certain enterprise engagements, we adapt to structured phase-gate delivery where documentation and compliance are prioritised."
+      },
+      {
+        "question": "Can you take over an existing project from another vendor?",
+        "answer": "Yes. We perform a technical assessment of the existing codebase, infrastructure, and documentation before proposing a stabilisation or enhancement roadmap. This helps reduce risk during transition."
+      },
+      {
+        "question": "Do you provide source code and documentation?",
+        "answer": "Yes. Upon project completion and as per agreement terms, clients receive source code, deployment documentation, and handover materials required for internal maintenance or future enhancements."
+      },
+      {
+        "question": "How do you handle project communication?",
+        "answer": "We assign a dedicated project coordinator and use agreed channels such as email, video calls, and project management tools. Status updates, sprint reviews, and issue tracking remain transparent throughout delivery."
+      }
+    ]
+  },
+  {
+    "id": "technical",
+    "title": "Technical",
+    "faqs": [
+      {
+        "question": "What technologies do you specialise in?",
+        "answer": "Our teams work with modern stacks including React, Next.js, Node.js, .NET, Python, React Native, Flutter, PostgreSQL, MySQL, MongoDB, AWS, Azure, and a wide range of integration and testing tools."
+      },
+      {
+        "question": "Can you integrate with our existing ERP or CRM?",
+        "answer": "Yes. We build secure APIs and middleware to connect new applications with ERP, CRM, payment gateways, logistics platforms, and other third-party systems already used in your organisation."
+      },
+      {
+        "question": "Do you build cloud-ready applications?",
+        "answer": "Absolutely. We design applications for cloud deployment with scalability, monitoring, and security in mind. We support AWS, Azure, and hybrid setups depending on your infrastructure preferences."
+      },
+      {
+        "question": "How do you ensure application security?",
+        "answer": "We follow secure coding practices, role-based access control, encrypted data handling, input validation, and regular code reviews. Security considerations are embedded from architecture through deployment."
+      }
+    ]
+  },
+  {
+    "id": "support",
+    "title": "Support and Engagement",
+    "faqs": [
+      {
+        "question": "Do you offer post-launch support?",
+        "answer": "Yes. We provide maintenance and support plans covering bug fixes, minor enhancements, performance monitoring, and dependency updates to keep your software reliable after launch."
+      },
+      {
+        "question": "Can you work as an extended development team?",
+        "answer": "We frequently operate as an extended engineering team, collaborating with your in-house staff on product roadmap items, feature delivery, and technical backlog management."
+      },
+      {
+        "question": "What is your typical project timeline?",
+        "answer": "Timelines depend on scope and complexity. Small modules may take a few weeks, while enterprise platforms may span several months. We provide realistic estimates after discovery and requirement analysis."
+      },
+      {
+        "question": "How do I request a project estimate?",
+        "answer": "You can contact us through the website contact form, email us at info@wjbtechnologies.com, or call our office. Share your requirements and we will schedule a consultation to provide a tailored proposal."
+      }
+    ]
+  }
+]

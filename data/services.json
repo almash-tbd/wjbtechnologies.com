@@ -1,0 +1,1186 @@
+[
+  {
+    "slug": "web-development",
+    "title": "Web Development",
+    "category": "Development",
+    "shortDescription": "Custom websites and web applications built for performance, scalability, and business growth.",
+    "heroSubtitle": "Modern web platforms engineered for Indian businesses and global audiences.",
+    "features": [
+      "Responsive design across all devices and screen sizes",
+      "SEO-friendly architecture and performance optimisation",
+      "Secure authentication and role-based access control",
+      "CMS and admin panel integration where required",
+      "Third-party API and payment gateway integration",
+      "Scalable backend architecture with clean code practices"
+    ],
+    "technologies": [
+      "Next.js",
+      "React",
+      "Node.js",
+      "TypeScript",
+      "PostgreSQL",
+      "Tailwind CSS",
+      "AWS"
+    ],
+    "process": [
+      {
+        "step": "Discovery",
+        "description": "We analyse your business goals, users, and technical requirements."
+      },
+      {
+        "step": "Design",
+        "description": "Wireframes and UI concepts align brand identity with usability."
+      },
+      {
+        "step": "Development",
+        "description": "Agile sprints deliver functional modules with regular demos."
+      },
+      {
+        "step": "Testing",
+        "description": "Cross-browser, performance, and security testing before launch."
+      },
+      {
+        "step": "Deployment",
+        "description": "Production rollout with monitoring and documentation handover."
+      }
+    ],
+    "content": [
+      "In today's digital economy, your website is often the first meaningful interaction a customer, partner, or investor has with your business. At WJB Technologies, we approach web development as a strategic capability—not merely a design exercise. Our team builds custom websites and web applications that support real operational workflows, strengthen brand credibility, and scale as your organisation grows. Whether you need a marketing site, a customer portal, or a complex business platform, we engineer solutions that perform reliably under everyday use and during peak demand.",
+      "Based in Vadodara and serving clients across India, we understand the practical needs of businesses operating in competitive domestic markets while also reaching international audiences. We use modern frameworks such as Next.js and React to deliver fast, maintainable frontends, paired with robust backend architectures that handle authentication, data processing, integrations, and reporting. Every build is planned with clarity: defined milestones, documented technical decisions, and transparent communication throughout the project lifecycle.",
+      "Performance and discoverability matter. Slow websites lose visitors; poorly structured sites lose search visibility. Our developers implement performance best practices including optimised assets, efficient rendering strategies, and clean semantic markup that supports search engine indexing. For businesses targeting Indian and global markets, we configure metadata, structured content, and page architectures that help your digital presence work harder for lead generation and customer engagement.",
+      "Security is embedded from the start. We implement secure session handling, input validation, HTTPS-ready deployments, and role-based permissions suited to your user model. When your web application handles customer data, transactions, or internal business information, these protections are essential. Our experience across B2B and enterprise projects means we understand compliance-conscious design without unnecessary complexity.",
+      "Integration capability separates a static website from a true business platform. WJB Technologies connects web applications with CRMs, ERPs, payment gateways, SMS and email services, analytics tools, and custom APIs. We design integration layers that are maintainable and well-documented, reducing dependency on fragile one-off scripts. This approach supports long-term evolution as your software ecosystem expands.",
+      "Our web development engagements are suited to startups launching their first product, SMEs digitising manual processes, and established enterprises modernising legacy web assets. We offer structured discovery, iterative delivery, and post-launch support options so your investment continues to deliver value. If you are planning a new web initiative or rebuilding an outdated platform, WJB Technologies provides the technical depth and delivery discipline to move from concept to production with confidence."
+    ],
+    "relatedServices": [
+      "progressive-web-apps",
+      "cms-development",
+      "ui-ux-design",
+      "api-development"
+    ],
+    "metaDescription": "Professional web development services by WJB Technologies. Custom websites and web apps built with Next.js, React, and modern stacks for businesses in India.",
+    "keywords": [
+      "web development India",
+      "custom website development",
+      "Next.js development",
+      "web application company Vadodara"
+    ]
+  },
+  {
+    "slug": "mobile-app-development",
+    "title": "Mobile App Development",
+    "category": "Development",
+    "shortDescription": "Native and hybrid mobile applications designed for engagement, reliability, and growth.",
+    "heroSubtitle": "Mobile experiences that connect your business to customers and field teams anywhere.",
+    "features": [
+      "iOS and Android application development",
+      "Intuitive UI aligned with platform guidelines",
+      "Offline functionality and data synchronisation",
+      "Push notifications and in-app messaging",
+      "Secure API integration with backend systems",
+      "App store deployment and release management"
+    ],
+    "technologies": [
+      "React Native",
+      "Flutter",
+      "Swift",
+      "Kotlin",
+      "Firebase",
+      "Node.js",
+      "REST APIs"
+    ],
+    "process": [
+      {
+        "step": "Strategy",
+        "description": "Define user journeys, platform targets, and feature priorities."
+      },
+      {
+        "step": "Prototyping",
+        "description": "Interactive prototypes validate UX before full development."
+      },
+      {
+        "step": "Build",
+        "description": "Iterative development with device testing across form factors."
+      },
+      {
+        "step": "QA",
+        "description": "Functional, performance, and usability testing on real devices."
+      },
+      {
+        "step": "Launch",
+        "description": "Store submission, analytics setup, and post-launch monitoring."
+      }
+    ],
+    "content": [
+      "Mobile applications have become essential touchpoints for customer engagement, employee productivity, and real-time business operations. WJB Technologies develops mobile apps that are fast, dependable, and aligned with how your users actually work—whether they are consumers browsing your services, field staff capturing data on-site, or managers approving workflows on the move. We combine thoughtful UX design with solid engineering to deliver apps that feel polished and perform consistently.",
+      "Our mobile development practice covers native and cross-platform approaches. For many clients, React Native or Flutter provides an efficient path to iOS and Android with a shared codebase, while native Swift or Kotlin development remains appropriate for performance-critical or deeply platform-specific requirements. We help you choose the right technical direction during discovery, balancing budget, timeline, feature complexity, and long-term maintenance considerations.",
+      "Indian businesses often require mobile solutions that function in varied network conditions. We implement offline-first patterns where needed, allowing users to continue working without connectivity and synchronising data securely when back online. This is particularly valuable for logistics, utilities, healthcare outreach, sales teams, and any operation that extends beyond reliable office networks.",
+      "Backend integration is central to meaningful mobile apps. WJB Technologies builds and connects APIs that power authentication, content delivery, transactions, notifications, and reporting. We ensure communication between mobile clients and server infrastructure is secure, efficient, and versioned for future updates. Admin dashboards frequently accompany mobile projects, giving your team visibility and control over app content, users, and operational data.",
+      "Quality assurance on mobile requires real-device testing across screen sizes, OS versions, and usage scenarios. Our QA process covers functional correctness, performance profiling, crash monitoring readiness, and usability review. Before launch, we support app store compliance, release notes, and deployment pipelines that simplify ongoing updates.",
+      "From customer-facing apps to internal enterprise tools, WJB Technologies delivers mobile software that supports measurable business outcomes—improved response times, higher engagement, reduced manual errors, and better data visibility. Partner with us to transform your mobile idea into a production-ready application built for sustainable growth."
+    ],
+    "relatedServices": [
+      "cross-platform-development",
+      "api-development",
+      "ui-ux-design",
+      "maintenance-support"
+    ],
+    "metaDescription": "Mobile app development services in India by WJB Technologies. iOS, Android, and cross-platform apps for business growth.",
+    "keywords": [
+      "mobile app development India",
+      "Android app development",
+      "iOS app development Vadodara"
+    ]
+  },
+  {
+    "slug": "windows-application-development",
+    "title": "Windows Application Development",
+    "category": "Development",
+    "shortDescription": "Desktop software for Windows environments with robust performance and enterprise integration.",
+    "heroSubtitle": "Reliable Windows applications for productivity, automation, and internal operations.",
+    "features": [
+      "Custom Windows desktop application development",
+      "Integration with databases and enterprise systems",
+      "Modern UI with intuitive workflows",
+      "Local and network deployment options",
+      "Auto-update and versioning support",
+      "Legacy application enhancement and support"
+    ],
+    "technologies": [
+      ".NET",
+      "C#",
+      "WPF",
+      "WinForms",
+      "SQL Server",
+      "SQLite",
+      "REST APIs"
+    ],
+    "process": [
+      {
+        "step": "Requirements",
+        "description": "Map business processes and technical constraints for Windows deployment."
+      },
+      {
+        "step": "Architecture",
+        "description": "Define application structure, data models, and integration points."
+      },
+      {
+        "step": "Implementation",
+        "description": "Build features with modular, testable code organisation."
+      },
+      {
+        "step": "Testing",
+        "description": "Validate on target Windows versions and hardware profiles."
+      },
+      {
+        "step": "Rollout",
+        "description": "Package, deploy, and document for IT teams and end users."
+      }
+    ],
+    "content": [
+      "Despite the rise of cloud and mobile platforms, Windows desktop applications remain vital for many Indian businesses—especially in manufacturing, finance, healthcare, education, and internal enterprise operations. WJB Technologies develops Windows applications that deliver responsive performance, deep system integration, and workflows tailored to desktop power users who depend on keyboard-driven efficiency, local processing, and reliable access to peripherals and legacy systems.",
+      "Our Windows development team works primarily with .NET technologies including WPF and WinForms, selected based on your UI requirements, existing technology investments, and deployment environment. We build applications that connect to SQL Server, PostgreSQL, SQLite, and external services through secure APIs. Whether you need a standalone utility, a departmental tool, or a company-wide desktop platform, we focus on stability and maintainability.",
+      "Many organisations continue to rely on desktop software built years ago that still performs critical functions but has become difficult to extend. WJB Technologies helps modernise these applications—refactoring modules, improving user interfaces, adding reporting capabilities, and enabling integration with newer web and mobile systems without forcing an immediate full replacement.",
+      "Deployment considerations are handled pragmatically. We support MSI installers, controlled network distribution, configuration management, and versioning strategies suited to IT departments. Where appropriate, we implement auto-update mechanisms that reduce manual rollout effort while keeping security patches and feature releases manageable.",
+      "User experience on desktop should not feel dated. We design clear navigation, sensible defaults, validation feedback, and accessible interfaces that reduce training time and support burden. For data-heavy applications, we implement efficient grids, filtering, export options, and background processing to keep the UI responsive.",
+      "If your business depends on Windows software for daily operations, WJB Technologies offers the engineering experience and delivery structure to build new applications or evolve existing ones. We align desktop solutions with your broader technology roadmap so investments remain coherent across web, mobile, and cloud initiatives."
+    ],
+    "relatedServices": [
+      "desktop-applications",
+      "custom-software-development",
+      "software-modernization",
+      "database-development"
+    ],
+    "metaDescription": "Windows application development by WJB Technologies. Custom .NET desktop software for Indian enterprises.",
+    "keywords": [
+      "Windows application development",
+      ".NET desktop development India",
+      "WPF development company"
+    ]
+  },
+  {
+    "slug": "custom-software-development",
+    "title": "Custom Software Development",
+    "category": "Development",
+    "shortDescription": "Tailor-made software solutions designed around your unique business processes and goals.",
+    "heroSubtitle": "Bespoke systems that fit your operations—not the other way around.",
+    "features": [
+      "Business process analysis and solution design",
+      "End-to-end custom application development",
+      "Scalable multi-tier architecture",
+      "Workflow automation and approval systems",
+      "Reporting, analytics, and admin modules",
+      "Long-term enhancement and support options"
+    ],
+    "technologies": [
+      "React",
+      "Node.js",
+      ".NET",
+      "Python",
+      "PostgreSQL",
+      "Docker",
+      "AWS"
+    ],
+    "process": [
+      {
+        "step": "Consultation",
+        "description": "Understand pain points, stakeholders, and success metrics."
+      },
+      {
+        "step": "Solution Design",
+        "description": "Document functional scope, architecture, and delivery phases."
+      },
+      {
+        "step": "Development",
+        "description": "Iterative build with demos and feedback at each milestone."
+      },
+      {
+        "step": "Validation",
+        "description": "User acceptance testing and performance verification."
+      },
+      {
+        "step": "Handover",
+        "description": "Deployment, training, and documentation for your team."
+      }
+    ],
+    "content": [
+      "Off-the-shelf software often forces organisations to adapt their processes to generic features. Custom software development reverses that relationship—technology is shaped around how your business actually operates. WJB Technologies specialises in building bespoke applications that automate workflows, unify disconnected data sources, and provide competitive advantages that packaged products cannot easily replicate.",
+      "Our custom software engagements begin with structured discovery. We interview stakeholders, map current processes, identify bottlenecks, and define measurable outcomes. This foundation prevents expensive rework later and ensures the solution addresses root operational challenges rather than superficial symptoms. For Indian businesses scaling across regions or integrating legacy practices with digital systems, this clarity is especially valuable.",
+      "Architecturally, we design for longevity. Modular codebases, documented APIs, appropriate database modelling, and environment separation between development, staging, and production are standard practices in our delivery. We select technology stacks based on maintainability, team skill availability, integration needs, and performance requirements—not trends alone.",
+      "Custom software frequently spans multiple user roles: administrators, managers, field staff, customers, and partners. WJB Technologies implements role-based access, audit trails, notification systems, and dashboards that give each audience the right level of visibility and control. Complex approval chains, document management, inventory logic, and industry-specific calculations are common components we implement with care.",
+      "Successful custom software is never truly finished—it evolves with your business. We structure projects to support phased delivery, allowing you to realise value early while continuing to expand functionality. Post-launch, our maintenance and support services help keep applications secure, performant, and aligned with changing requirements.",
+      "Whether you are replacing spreadsheets, consolidating fragmented tools, or creating an entirely new digital product, WJB Technologies brings disciplined engineering and collaborative partnership to custom software development. We build systems that your organisation can depend on for years."
+    ],
+    "relatedServices": [
+      "enterprise-applications",
+      "software-consulting",
+      "api-development",
+      "maintenance-support"
+    ],
+    "metaDescription": "Custom software development services in India by WJB Technologies. Bespoke business applications built to your requirements.",
+    "keywords": [
+      "custom software development India",
+      "bespoke software company",
+      "enterprise software Vadodara"
+    ]
+  },
+  {
+    "slug": "progressive-web-apps",
+    "title": "Progressive Web Apps",
+    "category": "Development",
+    "shortDescription": "Fast, installable web applications that deliver app-like experiences without store dependency.",
+    "heroSubtitle": "Reach users instantly with reliable, engaging PWAs.",
+    "features": [
+      "Installable app-like experience from the browser",
+      "Offline access and background sync",
+      "Push notification support",
+      "Fast loading with service worker caching",
+      "Responsive design for mobile and desktop",
+      "Lower development cost compared to dual native apps"
+    ],
+    "technologies": [
+      "Next.js",
+      "React",
+      "Service Workers",
+      "IndexedDB",
+      "Node.js",
+      "Workbox",
+      "HTTPS"
+    ],
+    "process": [
+      {
+        "step": "Feasibility",
+        "description": "Evaluate whether PWA architecture fits your user and business needs."
+      },
+      {
+        "step": "UX Planning",
+        "description": "Design flows optimised for mobile-first, app-like interaction."
+      },
+      {
+        "step": "Development",
+        "description": "Implement core features with offline and performance patterns."
+      },
+      {
+        "step": "Optimisation",
+        "description": "Tune caching strategies, load times, and reliability metrics."
+      },
+      {
+        "step": "Release",
+        "description": "Deploy with install prompts and analytics for adoption tracking."
+      }
+    ],
+    "content": [
+      "Progressive Web Apps combine the reach of the web with capabilities traditionally associated with native mobile applications. For many businesses, PWAs offer a pragmatic path to mobile engagement—installable icons, offline access, push notifications, and smooth performance—without maintaining separate iOS and Android codebases or navigating app store approval cycles for every update.",
+      "WJB Technologies builds PWAs using modern frameworks and service worker strategies that cache assets intelligently, reduce load times on slower networks, and keep core functionality available when connectivity drops. This is particularly relevant in India, where users access services across varied devices and network conditions. A well-engineered PWA can feel remarkably close to a native app while remaining instantly accessible via URL.",
+      "We assess PWA suitability during discovery. Applications requiring deep hardware integration or complex background processing may still benefit from native development, but customer portals, booking systems, catalogues, lightweight field tools, and content platforms are often excellent PWA candidates. Our team helps you weigh trade-offs honestly so you invest in the right architecture.",
+      "Performance optimisation is central to PWA success. We implement code splitting, responsive images, efficient API calls, and lighthouse-oriented improvements that support strong user experience metrics. Installability and engagement features—including add-to-home-screen prompts and push notifications—are configured with respect for user consent and platform guidelines.",
+      "PWAs integrate naturally with existing web backends and authentication systems. WJB Technologies ensures your PWA shares a coherent security model with your broader digital estate, including token handling, session management, and API versioning. Analytics hooks help you measure adoption, retention, and feature usage from day one.",
+      "If you want mobile reach without doubling development overhead, progressive web apps may be the right strategic choice. WJB Technologies delivers PWAs that are fast, reliable, and maintainable—extending your web investment into an app-like experience your users will appreciate."
+    ],
+    "relatedServices": [
+      "web-development",
+      "mobile-app-development",
+      "cross-platform-development",
+      "ui-ux-design"
+    ],
+    "metaDescription": "Progressive Web App development by WJB Technologies. Fast, installable web apps for Indian businesses.",
+    "keywords": [
+      "PWA development India",
+      "progressive web app company",
+      "installable web applications"
+    ]
+  },
+  {
+    "slug": "cross-platform-development",
+    "title": "Cross-Platform App Development",
+    "category": "Development",
+    "shortDescription": "Single codebase mobile solutions for iOS and Android with consistent user experience.",
+    "heroSubtitle": "Build once, deploy everywhere—without compromising quality.",
+    "features": [
+      "Shared codebase for iOS and Android",
+      "Consistent UI with platform-aware adjustments",
+      "Faster time-to-market than dual native builds",
+      "Integrated backend and API connectivity",
+      "Code reuse across future feature releases",
+      "Simplified maintenance and update cycles"
+    ],
+    "technologies": [
+      "React Native",
+      "Flutter",
+      "TypeScript",
+      "Firebase",
+      "Node.js",
+      "GraphQL"
+    ],
+    "process": [
+      {
+        "step": "Platform Strategy",
+        "description": "Confirm cross-platform fit and define device support matrix."
+      },
+      {
+        "step": "Design System",
+        "description": "Create reusable components with platform-specific polish."
+      },
+      {
+        "step": "Development",
+        "description": "Implement features with shared logic and native modules where needed."
+      },
+      {
+        "step": "Device Testing",
+        "description": "Test across representative iOS and Android devices."
+      },
+      {
+        "step": "Distribution",
+        "description": "Manage store releases and OTA update strategy if applicable."
+      }
+    ],
+    "content": [
+      "Cross-platform mobile development enables organisations to serve iOS and Android users efficiently from a unified codebase. WJB Technologies leverages frameworks such as React Native and Flutter to deliver applications that look professional, perform well, and remain economical to maintain as features evolve. For startups and enterprises alike, this approach can significantly reduce time-to-market while preserving quality.",
+      "Choosing cross-platform does not mean accepting a compromised experience. Our designers and developers apply platform conventions where they matter—navigation patterns, typography, gestures, and system integrations—while maintaining shared business logic and backend communication layers. The result is consistency for your brand with respect for user expectations on each operating system.",
+      "Indian businesses launching customer apps, internal tools, or partner portals often face pressure to support both major mobile platforms quickly. Cross-platform development helps you launch simultaneously, gather feedback from a broader user base, and iterate without diverging code paths. We structure projects to accommodate native modules when specific hardware or OS capabilities require them.",
+      "Backend architecture supports cross-platform clients through well-designed APIs, authentication services, and media delivery. WJB Technologies implements versioning and error handling that mobile clients can rely on across network conditions. Admin panels and analytics frequently accompany mobile projects to give operations teams visibility into usage and content management.",
+      "Maintenance is a long-term consideration. A single codebase simplifies bug fixes, security patches, and feature rollouts. We document build pipelines, environment configuration, and release procedures so your internal team or our support services can manage updates confidently after launch.",
+      "When your mobile strategy requires broad platform coverage with controlled budget and timeline, cross-platform development is often the smartest path. WJB Technologies combines framework expertise with disciplined delivery to help you ship dependable apps that scale with your business."
+    ],
+    "relatedServices": [
+      "mobile-app-development",
+      "progressive-web-apps",
+      "api-development",
+      "software-testing"
+    ],
+    "metaDescription": "Cross-platform app development services by WJB Technologies using React Native and Flutter.",
+    "keywords": [
+      "cross-platform app development India",
+      "React Native company",
+      "Flutter development Vadodara"
+    ]
+  },
+  {
+    "slug": "enterprise-applications",
+    "title": "Enterprise Application Development",
+    "category": "Enterprise",
+    "shortDescription": "Large-scale business systems built for security, compliance, and operational complexity.",
+    "heroSubtitle": "Enterprise-grade software for organisations with demanding requirements.",
+    "features": [
+      "Multi-department workflow orchestration",
+      "Enterprise authentication and SSO integration",
+      "High availability and scalable architecture",
+      "Audit logging and compliance-ready design",
+      "Legacy system integration capabilities",
+      "Dedicated support and SLA-based maintenance"
+    ],
+    "technologies": [
+      ".NET",
+      "Java",
+      "React",
+      "PostgreSQL",
+      "Redis",
+      "Kubernetes",
+      "Azure"
+    ],
+    "process": [
+      {
+        "step": "Enterprise Discovery",
+        "description": "Engage stakeholders across departments to define scope and constraints."
+      },
+      {
+        "step": "Architecture",
+        "description": "Design secure, scalable systems with integration blueprints."
+      },
+      {
+        "step": "Phased Delivery",
+        "description": "Roll out modules incrementally to reduce operational risk."
+      },
+      {
+        "step": "Compliance Review",
+        "description": "Validate security, access controls, and audit requirements."
+      },
+      {
+        "step": "Operational Handover",
+        "description": "Train IT teams and establish monitoring and support processes."
+      }
+    ],
+    "content": [
+      "Enterprise applications sit at the core of organisational operations—processing orders, managing assets, coordinating teams, handling finances, and connecting data across departments. WJB Technologies develops enterprise software with the rigour these environments demand: security, scalability, traceability, and integration with existing investments.",
+      "Enterprise projects require more than coding skill. They require facilitation across business units, respect for compliance constraints, and realistic migration planning. Our consultants and engineers work with your stakeholders to document requirements, prioritise capabilities, and phase delivery so daily operations continue with minimal disruption.",
+      "Architecture decisions carry long-term consequences. We implement multi-tier designs with clear separation of concerns, caching where appropriate, background job processing for heavy tasks, and database strategies that support reporting without overloading transactional workloads. For Indian enterprises expanding nationally or integrating with global systems, we plan for growth and interoperability from the outset.",
+      "Security and governance are non-negotiable. Role-based access, approval hierarchies, encrypted communications, session management, and comprehensive audit logs are built into enterprise solutions we deliver. When single sign-on or directory integration is required, we implement standards-based connections compatible with common identity providers.",
+      "Legacy coexistence is common. Rather than insisting on rip-and-replace, WJB Technologies often designs enterprise applications to integrate gradually with existing ERP, accounting, HR, and warehouse systems through APIs and synchronisation services. This pragmatic approach reduces risk and preserves institutional knowledge embedded in older tools.",
+      "Our enterprise clients value predictability. Structured communication, documented change management, testing discipline, and post-go-live support options help ensure software remains an asset—not a liability. If your organisation needs a dependable technology partner for mission-critical systems, WJB Technologies is equipped to deliver at enterprise scale."
+    ],
+    "relatedServices": [
+      "custom-software-development",
+      "software-modernization",
+      "database-development",
+      "cloud-applications"
+    ],
+    "metaDescription": "Enterprise application development by WJB Technologies for secure, scalable business systems in India.",
+    "keywords": [
+      "enterprise software development India",
+      "business application development",
+      "enterprise app company"
+    ]
+  },
+  {
+    "slug": "desktop-applications",
+    "title": "Desktop Application Development",
+    "category": "Development",
+    "shortDescription": "Powerful desktop software for Windows, macOS, and Linux business environments.",
+    "heroSubtitle": "Desktop solutions for performance-intensive and offline-capable workflows.",
+    "features": [
+      "Cross-platform desktop application options",
+      "Rich user interfaces for complex data entry",
+      "Local data processing and file management",
+      "Hardware and peripheral integration",
+      "Automatic updates and licensing support",
+      "Enterprise deployment tooling"
+    ],
+    "technologies": [
+      "Electron",
+      ".NET",
+      "Qt",
+      "SQLite",
+      "PostgreSQL",
+      "C++",
+      "REST APIs"
+    ],
+    "process": [
+      {
+        "step": "Use Case Analysis",
+        "description": "Determine why desktop is the right platform for your needs."
+      },
+      {
+        "step": "UI Engineering",
+        "description": "Design efficient interfaces for prolonged daily use."
+      },
+      {
+        "step": "Core Development",
+        "description": "Implement business logic with robust error handling."
+      },
+      {
+        "step": "Systems Testing",
+        "description": "Validate on target OS versions and hardware setups."
+      },
+      {
+        "step": "Distribution",
+        "description": "Package installers and document IT deployment steps."
+      }
+    ],
+    "content": [
+      "Desktop applications remain the right choice for many professional workflows—especially where large datasets, specialised peripherals, offline reliability, or intensive local computation are involved. WJB Technologies builds desktop software for Windows, macOS, and Linux environments, helping businesses equip power users with tools that maximise productivity.",
+      "We evaluate platform options including .NET for Windows-centric deployments, Electron for cross-platform delivery with web technology skills, and native frameworks where performance demands it. The guiding principle is matching technology to operational reality, not forcing a one-size-fits-all stack.",
+      "Desktop software often interfaces with scanners, printers, industrial equipment, or local databases. Our engineers implement device communication, file import/export, batch processing, and background tasks that web browsers cannot always support reliably. For manufacturing, laboratories, design studios, and back-office teams, these capabilities are essential.",
+      "User interface design for desktop emphasises efficiency: keyboard shortcuts, bulk actions, configurable grids, and sensible defaults that reduce repetitive work. We collaborate with your domain experts to ensure screens reflect familiar terminology and process order, shortening adoption time.",
+      "Deployment and licensing models vary by organisation. WJB Technologies supports per-machine installation, network-licensed setups, configuration profiles, and update channels managed by IT. Documentation for administrators accompanies every delivery so support teams are not left guessing.",
+      "When cloud and mobile are part of your roadmap, desktop applications can still play a complementary role. We design synchronisation and API layers that connect desktop tools with central systems, ensuring data consistency across your technology estate. Contact WJB Technologies to discuss desktop software that fits your professional environment."
+    ],
+    "relatedServices": [
+      "windows-application-development",
+      "custom-software-development",
+      "software-modernization",
+      "maintenance-support"
+    ],
+    "metaDescription": "Desktop application development services by WJB Technologies for Windows, macOS, and Linux.",
+    "keywords": [
+      "desktop application development India",
+      "desktop software company",
+      "Electron app development"
+    ]
+  },
+  {
+    "slug": "software-modernization",
+    "title": "Software Modernization",
+    "category": "Enterprise",
+    "shortDescription": "Upgrade legacy systems with modern architecture, improved UX, and cloud readiness.",
+    "heroSubtitle": "Transform legacy software into a foundation for future growth.",
+    "features": [
+      "Legacy codebase assessment and roadmap planning",
+      "UI modernisation and workflow improvement",
+      "Monolith to modular or microservices migration",
+      "Database optimisation and refactoring",
+      "Cloud migration and containerisation",
+      "Risk-managed phased transition strategies"
+    ],
+    "technologies": [
+      "React",
+      "Node.js",
+      ".NET Core",
+      "Docker",
+      "Kubernetes",
+      "PostgreSQL",
+      "Azure"
+    ],
+    "process": [
+      {
+        "step": "Assessment",
+        "description": "Audit existing systems, dependencies, and technical debt."
+      },
+      {
+        "step": "Roadmap",
+        "description": "Prioritise modernisation phases aligned with business risk tolerance."
+      },
+      {
+        "step": "Refactor",
+        "description": "Incrementally replace or wrap legacy components."
+      },
+      {
+        "step": "Validate",
+        "description": "Parallel testing to ensure functional parity and data integrity."
+      },
+      {
+        "step": "Cutover",
+        "description": "Controlled migration with rollback planning and user training."
+      }
+    ],
+    "content": [
+      "Legacy software often still runs critical business functions—but maintaining it becomes increasingly expensive, risky, and limiting. WJB Technologies helps organisations modernise ageing applications by improving architecture, user experience, integration capability, and deployment flexibility without unnecessary disruption.",
+      "Modernisation is not a single action; it is a strategy. We begin with an honest technical assessment: code quality, dependency risks, database design, security posture, and operational bottlenecks. Combined with business priorities, this informs a phased roadmap that may include interface refresh, API extraction, database normalisation, cloud migration, or full platform rebuild depending on what delivers the best return.",
+      "Indian enterprises frequently carry systems built over years by different vendors. Documentation may be incomplete and knowledge may reside with a few staff members. Our team works carefully to capture behaviour, validate assumptions, and introduce automated tests where possible before making structural changes.",
+      "User experience improvements are often the most visible modernisation win. Streamlined screens, faster workflows, and mobile-friendly access can revive user adoption and reduce training costs—even while deeper architectural work continues behind the scenes.",
+      "Cloud readiness is another common driver. Containerising applications, introducing CI/CD pipelines, and moving to managed database services can improve reliability and reduce infrastructure overhead. WJB Technologies plans these transitions with attention to data migration, downtime windows, and compliance requirements.",
+      "The goal of modernisation is not technology for its own sake—it is sustained business agility. WJB Technologies partners with you to transform legacy liabilities into maintainable, extensible software assets that support the next decade of growth."
+    ],
+    "relatedServices": [
+      "enterprise-applications",
+      "cloud-applications",
+      "maintenance-support",
+      "software-consulting"
+    ],
+    "metaDescription": "Software modernisation services by WJB Technologies. Upgrade legacy systems with modern architecture and UX.",
+    "keywords": [
+      "software modernisation India",
+      "legacy system migration",
+      "application modernisation company"
+    ]
+  },
+  {
+    "slug": "maintenance-support",
+    "title": "Application Maintenance and Support",
+    "category": "Support",
+    "shortDescription": "Ongoing software care to keep your applications secure, stable, and up to date.",
+    "heroSubtitle": "Protect your software investment with reliable long-term support.",
+    "features": [
+      "Bug fixes and incident response",
+      "Security patches and dependency updates",
+      "Performance monitoring and optimisation",
+      "Minor enhancements and configuration changes",
+      "SLA-based support tiers",
+      "Knowledge transfer and documentation updates"
+    ],
+    "technologies": [
+      "Monitoring Tools",
+      "CI/CD",
+      "Docker",
+      "Cloud Platforms",
+      "Ticketing Systems",
+      "Log Analytics"
+    ],
+    "process": [
+      {
+        "step": "Onboarding",
+        "description": "Review codebase, infrastructure, and support history."
+      },
+      {
+        "step": "Stabilisation",
+        "description": "Address critical issues and establish monitoring baselines."
+      },
+      {
+        "step": "Routine Care",
+        "description": "Apply patches, updates, and agreed enhancement requests."
+      },
+      {
+        "step": "Reporting",
+        "description": "Provide periodic health and activity summaries."
+      },
+      {
+        "step": "Improvement",
+        "description": "Recommend proactive upgrades to reduce future risk."
+      }
+    ],
+    "content": [
+      "Launching software is only the beginning. Applications require ongoing attention—security patches, dependency updates, bug fixes, infrastructure changes, and small enhancements that keep systems aligned with evolving business needs. WJB Technologies provides application maintenance and support services that help organisations run reliable software without maintaining a large in-house team for every system.",
+      "Our support engagements begin with onboarding: understanding your architecture, deployment process, known issues, and business-critical workflows. We establish monitoring where needed, document escalation paths, and agree service levels appropriate to your operational priorities.",
+      "Reactive support handles incidents when they occur—diagnosing errors, deploying fixes, and communicating status clearly. Proactive support goes further, applying security updates before vulnerabilities are exploited, optimising slow queries before they become outages, and flagging end-of-life dependencies that could disrupt operations.",
+      "Many Indian businesses operate software built by previous vendors who are no longer available or responsive. WJB Technologies frequently assumes support responsibility for such systems, stabilising them first, then gradually improving code quality and deployment practices to reduce future fragility.",
+      "Enhancement requests are managed transparently. Small changes—report adjustments, new fields, configuration updates—are handled within support frameworks, while larger features may be scoped as discrete projects. This keeps expectations clear and budgets predictable.",
+      "Reliable maintenance protects revenue, reputation, and internal productivity. Partner with WJB Technologies for support that treats your software as a living business asset deserving continuous care."
+    ],
+    "relatedServices": [
+      "software-testing",
+      "software-modernization",
+      "custom-software-development",
+      "cloud-applications"
+    ],
+    "metaDescription": "Application maintenance and support services by WJB Technologies for secure, stable software operations.",
+    "keywords": [
+      "software maintenance India",
+      "application support services",
+      "IT support Vadodara"
+    ]
+  },
+  {
+    "slug": "ui-ux-design",
+    "title": "UI/UX Design Services",
+    "category": "Design",
+    "shortDescription": "User-centred interface design that balances aesthetics, usability, and business goals.",
+    "heroSubtitle": "Design experiences that users understand and businesses benefit from.",
+    "features": [
+      "User research and persona development",
+      "Wireframing and interactive prototyping",
+      "Visual design systems and component libraries",
+      "Usability testing and iterative refinement",
+      "Responsive and accessible interface design",
+      "Developer-ready design specifications"
+    ],
+    "technologies": [
+      "Figma",
+      "Adobe XD",
+      "FigJam",
+      "Maze",
+      "HTML/CSS Prototypes",
+      "Design Tokens"
+    ],
+    "process": [
+      {
+        "step": "Research",
+        "description": "Understand users, contexts, and business objectives."
+      },
+      {
+        "step": "Structure",
+        "description": "Define information architecture and user flows."
+      },
+      {
+        "step": "Visual Design",
+        "description": "Create polished UI aligned with brand identity."
+      },
+      {
+        "step": "Validation",
+        "description": "Test prototypes with representative users where possible."
+      },
+      {
+        "step": "Handoff",
+        "description": "Deliver specs and assets for development implementation."
+      }
+    ],
+    "content": [
+      "Great software is judged first by how it feels to use. WJB Technologies provides UI/UX design services that connect business objectives with human-centred interfaces—reducing friction, improving adoption, and strengthening brand perception across web and mobile products.",
+      "Our design process starts with understanding: who uses the product, in what environment, with what level of technical confidence, and toward what outcomes. For Indian B2B applications, this often means balancing simplicity for occasional users with efficiency shortcuts for power users who interact with the system daily.",
+      "We produce wireframes and interactive prototypes before committing to full visual design. This allows stakeholders to validate flows early, avoiding expensive development rework. Design systems and reusable components ensure consistency as products grow and new features are added.",
+      "Accessibility and responsiveness are integral, not afterthoughts. We design interfaces that work across screen sizes and respect contrast, legibility, and keyboard navigation principles. These choices broaden your audience and reduce support issues stemming from confusing or inaccessible UI.",
+      "Collaboration with development is seamless. Designers work alongside engineers—providing specifications, tokens, and assets that translate cleanly into implementation. When WJB Technologies handles both design and development, continuity is especially strong; when we support your internal team, handoff quality remains a priority.",
+      "Whether you are launching a new product or improving an underperforming interface, thoughtful UI/UX design delivers measurable value—higher completion rates, shorter training cycles, and stronger user satisfaction. WJB Technologies helps you achieve that through disciplined, creative design practice."
+    ],
+    "relatedServices": [
+      "web-development",
+      "mobile-app-development",
+      "cms-development",
+      "software-consulting"
+    ],
+    "metaDescription": "UI/UX design services by WJB Technologies. User-centred interface design for web and mobile products.",
+    "keywords": [
+      "UI UX design India",
+      "interface design company",
+      "UX design services Vadodara"
+    ]
+  },
+  {
+    "slug": "database-development",
+    "title": "Database Design and Development",
+    "category": "Infrastructure",
+    "shortDescription": "Structured data architecture for performance, integrity, and scalable reporting.",
+    "heroSubtitle": "Data foundations built for accuracy, speed, and growth.",
+    "features": [
+      "Conceptual and logical data modelling",
+      "Normalisation and schema optimisation",
+      "Stored procedures and query tuning",
+      "Migration and ETL planning",
+      "Backup, recovery, and replication strategy",
+      "Documentation and data governance support"
+    ],
+    "technologies": [
+      "PostgreSQL",
+      "MySQL",
+      "SQL Server",
+      "MongoDB",
+      "Redis",
+      "Azure SQL",
+      "AWS RDS"
+    ],
+    "process": [
+      {
+        "step": "Data Discovery",
+        "description": "Inventory existing data sources, quality, and relationships."
+      },
+      {
+        "step": "Modelling",
+        "description": "Design schemas that support transactions and reporting needs."
+      },
+      {
+        "step": "Implementation",
+        "description": "Build databases with constraints, indexes, and security controls."
+      },
+      {
+        "step": "Migration",
+        "description": "Transfer data with validation and rollback safeguards."
+      },
+      {
+        "step": "Optimisation",
+        "description": "Monitor performance and refine queries over time."
+      }
+    ],
+    "content": [
+      "Every dependable application rests on a well-designed database. Poor data modelling leads to inconsistencies, slow reports, and costly rewrites. WJB Technologies provides database design and development services that establish reliable foundations for transactional systems, analytics, and integrated software ecosystems.",
+      "We work with relational engines including PostgreSQL, MySQL, and SQL Server, as well as document stores like MongoDB where flexible schema suits the use case. Selection depends on data shape, query patterns, team skills, licensing considerations, and hosting environment—not habit alone.",
+      "Our database engineers collaborate with application developers from project inception. Early modelling prevents the anti-pattern of bolting on database fixes after features are built. We define entities, relationships, constraints, indexing strategies, and migration paths with both daily operations and future reporting in mind.",
+      "Performance tuning is ongoing work. We analyse slow queries, optimise indexes, refactor problematic schemas, and implement caching layers when appropriate. For Indian businesses experiencing rapid data growth, these optimisations protect user experience and operational reporting timelines.",
+      "Data migration projects—whether from legacy desktop databases, spreadsheets, or older server versions—are executed with validation checkpoints, reconciliation reports, and rollback planning. Data integrity is never assumed; it is verified.",
+      "Strong database practice reduces risk across your entire software portfolio. WJB Technologies delivers data architecture that supports confident decision-making and sustainable application evolution."
+    ],
+    "relatedServices": [
+      "api-development",
+      "enterprise-applications",
+      "cloud-applications",
+      "custom-software-development"
+    ],
+    "metaDescription": "Database design and development by WJB Technologies. Scalable data architecture for business applications.",
+    "keywords": [
+      "database development India",
+      "SQL database design",
+      "data architecture services"
+    ]
+  },
+  {
+    "slug": "api-development",
+    "title": "API Development and Integration",
+    "category": "Infrastructure",
+    "shortDescription": "Secure APIs and integrations that connect your software ecosystem seamlessly.",
+    "heroSubtitle": "Connect systems, automate workflows, and unlock data flow.",
+    "features": [
+      "RESTful and GraphQL API design",
+      "Third-party service integration",
+      "Authentication and rate limiting",
+      "API documentation and versioning",
+      "Webhook and event-driven architecture",
+      "Middleware and ETL connectivity"
+    ],
+    "technologies": [
+      "Node.js",
+      "Express",
+      ".NET Core",
+      "GraphQL",
+      "Postman",
+      "Swagger",
+      "RabbitMQ"
+    ],
+    "process": [
+      {
+        "step": "Integration Mapping",
+        "description": "Identify systems, data flows, and dependency constraints."
+      },
+      {
+        "step": "API Design",
+        "description": "Define endpoints, payloads, auth, and error conventions."
+      },
+      {
+        "step": "Implementation",
+        "description": "Build and test APIs with monitoring hooks."
+      },
+      {
+        "step": "Documentation",
+        "description": "Publish clear docs for internal and external consumers."
+      },
+      {
+        "step": "Governance",
+        "description": "Establish versioning and change management practices."
+      }
+    ],
+    "content": [
+      "Modern businesses rarely run on a single application. CRM, ERP, e-commerce, payment gateways, logistics platforms, and custom internal tools all need to exchange data reliably. WJB Technologies develops APIs and integration layers that make these connections secure, maintainable, and observable.",
+      "We design RESTful and GraphQL APIs with consistent naming, predictable error handling, pagination, and versioning strategies that protect consumers when changes occur. Authentication via tokens, OAuth, or API keys is implemented according to exposure level and sensitivity of data being transferred.",
+      "Integration projects often reveal hidden process gaps—duplicate records, inconsistent identifiers, timing conflicts between systems. Our consultants map data flows honestly and propose middleware or synchronisation strategies that respect system limitations while improving automation.",
+      "Documentation is part of deliverable quality. OpenAPI/Swagger specs, worked examples, and environment setup guides help your internal developers and external partners integrate faster with fewer support tickets.",
+      "For event-driven needs, we implement webhooks, message queues, and background workers that decouple systems and improve resilience during peak load or temporary outages.",
+      "Whether you are exposing services to partners, connecting a mobile app to backend infrastructure, or linking legacy ERP data to a modern portal, WJB Technologies builds integration capacity that scales with your digital strategy."
+    ],
+    "relatedServices": [
+      "cloud-applications",
+      "custom-software-development",
+      "database-development",
+      "enterprise-applications"
+    ],
+    "metaDescription": "API development and integration services by WJB Technologies for connected software ecosystems.",
+    "keywords": [
+      "API development India",
+      "system integration services",
+      "REST API development company"
+    ]
+  },
+  {
+    "slug": "software-testing",
+    "title": "Software Testing and QA",
+    "category": "Quality",
+    "shortDescription": "Comprehensive quality assurance to ship reliable, defect-free software.",
+    "heroSubtitle": "Quality built in—not bolted on at the end.",
+    "features": [
+      "Test strategy and planning",
+      "Manual functional and regression testing",
+      "Automated test suite development",
+      "API and integration testing",
+      "Performance and load testing",
+      "Defect tracking and release sign-off"
+    ],
+    "technologies": [
+      "Selenium",
+      "Cypress",
+      "Jest",
+      "Postman",
+      "JMeter",
+      "Playwright",
+      "TestRail"
+    ],
+    "process": [
+      {
+        "step": "Test Planning",
+        "description": "Define scope, environments, and acceptance criteria."
+      },
+      {
+        "step": "Test Design",
+        "description": "Create cases covering functional and edge scenarios."
+      },
+      {
+        "step": "Execution",
+        "description": "Run manual and automated tests across builds."
+      },
+      {
+        "step": "Reporting",
+        "description": "Log defects with reproduction steps and severity."
+      },
+      {
+        "step": "Sign-off",
+        "description": "Confirm release readiness against agreed quality gates."
+      }
+    ],
+    "content": [
+      "Software quality directly affects customer trust, internal productivity, and support costs. WJB Technologies provides software testing and QA services that identify defects early, validate requirements, and give stakeholders confidence before releases reach production.",
+      "Testing is planned alongside development—not crammed at the end. We define test strategies based on risk, user impact, and release cadence. Critical paths, payment flows, authentication, data migrations, and integration points receive focused attention.",
+      "Manual testing remains essential for exploratory scenarios and usability validation. Automated testing—unit, integration, and end-to-end—accelerates regression coverage for evolving codebases. We implement automation frameworks suited to your stack, with maintainable tests that developers can extend.",
+      "API testing verifies contracts between services before user interfaces hide underlying failures. Performance testing reveals bottlenecks under concurrent load, helping you avoid embarrassing outages during campaigns or seasonal peaks common in Indian retail and services sectors.",
+      "Defect management is transparent. Issues are documented with reproduction steps, environment details, and severity classifications. Release sign-off reports summarise coverage and outstanding risks so business leaders make informed go/no-go decisions.",
+      "Whether you need a dedicated QA team for a major project or periodic validation of ongoing releases, WJB Technologies strengthens your quality posture with disciplined, communicative testing practice."
+    ],
+    "relatedServices": [
+      "maintenance-support",
+      "custom-software-development",
+      "mobile-app-development",
+      "web-development"
+    ],
+    "metaDescription": "Software testing and QA services by WJB Technologies. Reliable quality assurance for web and mobile apps.",
+    "keywords": [
+      "software testing India",
+      "QA services company",
+      "automated testing Vadodara"
+    ]
+  },
+  {
+    "slug": "cloud-applications",
+    "title": "Cloud Application Development",
+    "category": "Cloud",
+    "shortDescription": "Cloud-native applications designed for scalability, resilience, and operational efficiency.",
+    "heroSubtitle": "Build and run software in the cloud with confidence.",
+    "features": [
+      "Cloud-native architecture design",
+      "AWS and Azure deployment pipelines",
+      "Auto-scaling and load balancing",
+      "Managed database and storage integration",
+      "Infrastructure monitoring and alerting",
+      "Cost optimisation and security hardening"
+    ],
+    "technologies": [
+      "AWS",
+      "Azure",
+      "Docker",
+      "Kubernetes",
+      "Terraform",
+      "Node.js",
+      "PostgreSQL"
+    ],
+    "process": [
+      {
+        "step": "Cloud Assessment",
+        "description": "Evaluate workloads, compliance, and hosting requirements."
+      },
+      {
+        "step": "Architecture",
+        "description": "Design resilient, observable cloud-native systems."
+      },
+      {
+        "step": "Build",
+        "description": "Develop applications with cloud services and CI/CD integration."
+      },
+      {
+        "step": "Deploy",
+        "description": "Roll out to staging and production with infrastructure as code."
+      },
+      {
+        "step": "Operate",
+        "description": "Monitor performance, costs, and security post-launch."
+      }
+    ],
+    "content": [
+      "Cloud platforms offer elasticity, managed services, and global reach—but realising their benefits requires deliberate architecture. WJB Technologies develops cloud applications on AWS and Azure that scale with demand, recover from failures gracefully, and remain operable by your team after deployment.",
+      "Cloud-native design considers stateless application tiers, container orchestration where appropriate, managed databases, object storage for media, and CDN delivery for static assets. We avoid unnecessary complexity while ensuring components can be updated independently and observed through logging and metrics.",
+      "Indian businesses adopt cloud for varied reasons: reducing on-premise hardware burden, supporting remote teams, improving disaster recovery, or enabling rapid product experimentation. We align cloud architecture with your actual motivations and compliance context rather than pushing a generic blueprint.",
+      "CI/CD pipelines automate testing and deployment, reducing human error and shortening release cycles. Infrastructure as code documents environments reproducibly, which matters when dev, staging, and production must stay synchronised.",
+      "Cost control is an ongoing concern. We right-size resources, apply autoscaling thoughtfully, and review usage periodically. Security hardening—network segmentation, secrets management, least-privilege IAM—is integrated from the first deployment.",
+      "From greenfield SaaS products to migrated enterprise modules, WJB Technologies helps you leverage cloud technology as a business enabler—not an operational headache."
+    ],
+    "relatedServices": [
+      "api-development",
+      "enterprise-applications",
+      "software-modernization",
+      "maintenance-support"
+    ],
+    "metaDescription": "Cloud application development by WJB Technologies on AWS and Azure for scalable business software.",
+    "keywords": [
+      "cloud application development India",
+      "AWS development company",
+      "Azure software development"
+    ]
+  },
+  {
+    "slug": "ecommerce-development",
+    "title": "E-commerce Development",
+    "category": "Commerce",
+    "shortDescription": "Online stores and B2B commerce platforms built for conversion and operational efficiency.",
+    "heroSubtitle": "Commerce platforms that sell smarter and operate smoothly.",
+    "features": [
+      "Custom storefront and catalogue management",
+      "Payment gateway and shipping integration",
+      "Inventory and order management workflows",
+      "Promotions, coupons, and tax configuration",
+      "Admin dashboards and sales reporting",
+      "Mobile-optimised shopping experiences"
+    ],
+    "technologies": [
+      "Next.js",
+      "Shopify",
+      "WooCommerce",
+      "Stripe",
+      "Razorpay",
+      "Node.js",
+      "PostgreSQL"
+    ],
+    "process": [
+      {
+        "step": "Commerce Strategy",
+        "description": "Define sales model, catalogue structure, and fulfilment flows."
+      },
+      {
+        "step": "UX Design",
+        "description": "Optimise browsing, checkout, and account management journeys."
+      },
+      {
+        "step": "Development",
+        "description": "Build storefront, admin tools, and integrations."
+      },
+      {
+        "step": "Testing",
+        "description": "Validate payments, inventory sync, and edge cases."
+      },
+      {
+        "step": "Launch",
+        "description": "Go live with analytics, SEO, and operational training."
+      }
+    ],
+    "content": [
+      "E-commerce is more than product pages—it is inventory accuracy, payment reliability, fulfilment coordination, and customer trust. WJB Technologies builds e-commerce solutions for B2C retailers and B2B distributors who need platforms aligned with Indian market practices including local payment methods, GST considerations, and mobile-first shopping behaviour.",
+      "We develop custom storefronts when off-the-shelf templates cannot support unique catalogue logic, pricing tiers, or integration requirements. For suitable use cases, we also implement and extend established platforms, always prioritising maintainability and ownership clarity.",
+      "Checkout experience directly impacts revenue. We minimise friction, support trusted payment gateways such as Razorpay and Stripe, implement clear shipping and return policies, and optimise performance on mid-range mobile devices common among Indian consumers.",
+      "Back-office capabilities are equally important: order processing, stock alerts, vendor management, discount rules, and exportable sales reports. Integrations with accounting, ERP, and logistics partners reduce manual data entry and fulfilment delays.",
+      "Post-launch, we support SEO fundamentals, analytics configuration, and iterative UX improvements based on real user behaviour. E-commerce is never static; seasonal campaigns, new categories, and payment options evolve—and your platform should accommodate that growth.",
+      "Whether launching your first online channel or replatforming an outdated store, WJB Technologies delivers commerce software that supports sustainable online revenue."
+    ],
+    "relatedServices": [
+      "web-development",
+      "cms-development",
+      "ui-ux-design",
+      "api-development"
+    ],
+    "metaDescription": "E-commerce development services by WJB Technologies. Custom online stores for Indian businesses.",
+    "keywords": [
+      "ecommerce development India",
+      "online store development",
+      "B2B ecommerce platform"
+    ]
+  },
+  {
+    "slug": "cms-development",
+    "title": "CMS Development",
+    "category": "Content",
+    "shortDescription": "Content management systems that empower teams to publish and manage digital content easily.",
+    "heroSubtitle": "Flexible content platforms for marketing and operations teams.",
+    "features": [
+      "Custom CMS and headless CMS implementations",
+      "Role-based content authoring workflows",
+      "Media library and asset management",
+      "SEO-friendly page structures",
+      "Multi-language content architecture ready",
+      "Integration with marketing and analytics tools"
+    ],
+    "technologies": [
+      "WordPress",
+      "Strapi",
+      "Contentful",
+      "Next.js",
+      "Sanity",
+      "Node.js",
+      "GraphQL"
+    ],
+    "process": [
+      {
+        "step": "Content Audit",
+        "description": "Understand content types, authors, and publishing frequency."
+      },
+      {
+        "step": "CMS Selection",
+        "description": "Choose custom or platform-based approach for your needs."
+      },
+      {
+        "step": "Implementation",
+        "description": "Configure models, permissions, and editorial workflows."
+      },
+      {
+        "step": "Training",
+        "description": "Enable content teams with documentation and handover sessions."
+      },
+      {
+        "step": "Support",
+        "description": "Provide ongoing assistance for upgrades and enhancements."
+      }
+    ],
+    "content": [
+      "Marketing and operations teams need to update websites, blogs, landing pages, and product content without waiting for developers on every change. WJB Technologies builds content management systems that balance editorial freedom with design consistency, performance, and security.",
+      "We implement headless CMS architectures when content must power multiple channels—websites, mobile apps, kiosks, or partner portals—from a single source. Traditional CMS platforms remain appropriate for editorially focused marketing sites with established plugin ecosystems.",
+      "Role-based workflows ensure the right people draft, review, approve, and publish content. Revision history, scheduled publishing, and media libraries reduce chaos as teams grow. For Indian organisations managing regional campaigns, structured content models simplify localisation when you choose to expand.",
+      "Developer experience matters too. Clean content APIs, webhooks, and preview environments help frontends stay fast while editors work comfortably in familiar interfaces. We integrate analytics, forms, and CRM connections so content investments translate to measurable leads.",
+      "Security updates and plugin hygiene are ongoing CMS concerns. Our maintenance services help keep installations patched and performant, reducing exposure to common vulnerabilities.",
+      "If your current website is difficult to update or your content is scattered across tools, a thoughtfully implemented CMS restores control. WJB Technologies designs content platforms that marketing and engineering teams can both live with happily."
+    ],
+    "relatedServices": [
+      "web-development",
+      "ui-ux-design",
+      "ecommerce-development",
+      "api-development"
+    ],
+    "metaDescription": "CMS development services by WJB Technologies. Custom and headless content management systems.",
+    "keywords": [
+      "CMS development India",
+      "headless CMS development",
+      "content management system company"
+    ]
+  },
+  {
+    "slug": "software-consulting",
+    "title": "Software Consulting",
+    "category": "Consulting",
+    "shortDescription": "Expert technology guidance to align software investments with business strategy.",
+    "heroSubtitle": "Make informed technology decisions before you commit.",
+    "features": [
+      "Technology stack evaluation and recommendations",
+      "Solution architecture and roadmap planning",
+      "Vendor and build-vs-buy analysis",
+      "Technical due diligence for investments",
+      "Process improvement and Agile coaching",
+      "Interim CTO and advisory engagements"
+    ],
+    "technologies": [
+      "Architecture Frameworks",
+      "Cloud Platforms",
+      "DevOps Tooling",
+      "Security Standards",
+      "Agile Methods"
+    ],
+    "process": [
+      {
+        "step": "Context Review",
+        "description": "Understand business goals, constraints, and current systems."
+      },
+      {
+        "step": "Analysis",
+        "description": "Evaluate options with risk, cost, and timeline implications."
+      },
+      {
+        "step": "Recommendations",
+        "description": "Deliver actionable roadmap and decision documentation."
+      },
+      {
+        "step": "Alignment",
+        "description": "Workshop findings with leadership and technical stakeholders."
+      },
+      {
+        "step": "Execution Support",
+        "description": "Optionally guide implementation teams through delivery."
+      }
+    ],
+    "content": [
+      "Not every challenge requires immediate development. Sometimes the highest value comes from clarity—knowing what to build, what to buy, what to retire, and in what order. WJB Technologies offers software consulting services that help Indian businesses make confident technology decisions aligned with strategic priorities.",
+      "Our consultants bring delivery experience across web, mobile, desktop, cloud, and enterprise environments. We assess current systems honestly, identifying technical debt, security gaps, and process bottlenecks without sensationalism. Recommendations are practical, phased, and respectful of budget realities.",
+      "Architecture engagements produce diagrams, decision records, and roadmaps that internal teams can execute—whether with WJB Technologies or other partners. We remain vendor-neutral in spirit, recommending approaches that serve your interests.",
+      "Build-vs-buy analysis saves organisations from expensive missteps. We evaluate commercial products, open-source options, and custom development paths against functional fit, total cost of ownership, and organisational capacity to maintain solutions long term.",
+      "For investors and leadership teams, technical due diligence on software assets reveals risks and opportunities before transactions or major initiatives proceed. Our structured reviews cover codebase health, infrastructure, IP considerations, and team capability.",
+      "Software consulting with WJB Technologies is a partnership in clear thinking—reducing uncertainty so every subsequent rupee spent on technology moves you closer to defined business outcomes."
+    ],
+    "relatedServices": [
+      "custom-software-development",
+      "enterprise-applications",
+      "software-modernization",
+      "cloud-applications"
+    ],
+    "metaDescription": "Software consulting services by WJB Technologies. Technology strategy and architecture guidance for businesses.",
+    "keywords": [
+      "software consulting India",
+      "IT consulting Vadodara",
+      "technology advisory services"
+    ]
+  }
+]

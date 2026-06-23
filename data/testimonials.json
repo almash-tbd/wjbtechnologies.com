@@ -1,0 +1,62 @@
+[
+  {
+    "id": "1",
+    "name": "Rajesh Mehta",
+    "designation": "Operations Director",
+    "content": "WJB Technologies delivered a custom operations platform that transformed how we manage dispatch, billing, and reporting. Their team understood our workflows quickly and translated complex requirements into a clean, dependable system. Communication was consistent throughout the project, and the final product has significantly reduced manual effort across departments."
+  },
+  {
+    "id": "2",
+    "name": "Priya Sharma",
+    "designation": "Product Manager",
+    "content": "We engaged WJB Technologies for a patient management module and were impressed by their structured approach. They provided clear milestones, thoughtful UX recommendations, and robust backend architecture. The application performs reliably under real-world usage, and their post-launch support has been responsive and professional."
+  },
+  {
+    "id": "3",
+    "name": "Amit Patel",
+    "designation": "Founder",
+    "content": "Our e-commerce platform was rebuilt by WJB Technologies with improved performance, cleaner checkout flows, and better inventory synchronisation. They balanced speed of delivery with code quality, and the new site has helped us serve customers more efficiently across Gujarat and beyond."
+  },
+  {
+    "id": "4",
+    "name": "Neha Desai",
+    "designation": "IT Head",
+    "content": "WJB Technologies modernised our legacy desktop application into a cloud-ready solution without disrupting daily operations. Their migration planning was thorough, documentation was clear, and the transition was smoother than we anticipated. The team demonstrated strong technical depth and practical business understanding."
+  },
+  {
+    "id": "5",
+    "name": "Vikram Singh",
+    "designation": "CEO",
+    "content": "Security, performance, and compliance were critical for our financial product, and WJB Technologies delivered on all fronts. They implemented secure APIs, role-based access, and comprehensive audit logging. We valued their transparency during development and their commitment to building maintainable software."
+  },
+  {
+    "id": "6",
+    "name": "Kavita Nair",
+    "designation": "Marketing Lead",
+    "content": "The learning portal developed by WJB Technologies offers an intuitive experience for students and administrators alike. Course management, assessments, and reporting were implemented with care. Their designers and developers worked cohesively, resulting in a polished product that supports our growth plans."
+  },
+  {
+    "id": "7",
+    "name": "Suresh Iyer",
+    "designation": "Technical Director",
+    "content": "We required a cross-platform mobile application for field engineers, and WJB Technologies exceeded expectations. Offline capability, GPS tracking, and photo uploads were handled elegantly. The app is stable, fast, and has improved how our teams capture and share project data in the field."
+  },
+  {
+    "id": "8",
+    "name": "Anjali Rao",
+    "designation": "HR Manager",
+    "content": "WJB Technologies built an internal HR and attendance system tailored to our policies and approval hierarchies. The solution reduced paperwork and gave management better visibility into workforce metrics. Their consultants asked the right questions early, which saved time during implementation."
+  },
+  {
+    "id": "9",
+    "name": "Deepak Verma",
+    "designation": "COO",
+    "content": "Our order management and dealer portal were developed with scalability in mind. WJB Technologies integrated multiple third-party services seamlessly and provided training for our internal team. We appreciate their practical recommendations and long-term view on software maintainability."
+  },
+  {
+    "id": "10",
+    "name": "Meera Joshi",
+    "designation": "Business Analyst",
+    "content": "Working with WJB Technologies on a policy administration module was a positive experience from discovery to deployment. They documented requirements meticulously, delivered iterative demos, and incorporated feedback without scope creep. The final system aligns well with our operational needs and regulatory considerations."
+  }
+]

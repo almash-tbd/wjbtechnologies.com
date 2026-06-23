@@ -1,0 +1,49 @@
+{
+  "brandName": "WJB Technologies",
+  "domain": "wjbtechnologies.com",
+  "url": "https://wjbtechnologies.com",
+  "targetCountry": "India",
+  "industry": "IT / Software Development",
+  "domainRegisteredDate": "2011-04-26",
+  "establishedYear": 2011,
+  "email": "info@wjbtechnologies.com",
+  "phone": "+91 45784 575XX",
+  "tagline": "Engineering Intelligent Software for Modern Businesses",
+  "description": "WJB Technologies is an India-based software development company delivering custom web, mobile, desktop, and enterprise applications for businesses across industries.",
+  "mission": "To empower organisations with reliable, scalable, and thoughtfully engineered software that accelerates growth and simplifies complex operations.",
+  "vision": "To be a trusted technology partner for Indian and global businesses, recognised for craftsmanship, clarity, and long-term delivery excellence.",
+  "values": [
+    {
+      "title": "Precision",
+      "description": "We build with discipline, clean architecture, and attention to detail at every layer of the stack."
+    },
+    {
+      "title": "Partnership",
+      "description": "We work as an extension of your team, aligning technology decisions with business outcomes."
+    },
+    {
+      "title": "Transparency",
+      "description": "Clear communication, honest timelines, and visible progress keep projects predictable and stress-free."
+    },
+    {
+      "title": "Innovation",
+      "description": "We adopt proven modern tools and practices to deliver software that stays relevant and maintainable."
+    }
+  ],
+  "businessHours": {
+    "weekdays": "Monday – Friday: 9:30 AM – 6:30 PM IST",
+    "saturday": "Saturday: 10:00 AM – 2:00 PM IST",
+    "sunday": "Sunday: Closed"
+  },
+  "socialMedia": {
+    "instagram": "",
+    "facebook": ""
+  },
+  "highlightedServices": [
+    "web-development",
+    "custom-software-development",
+    "mobile-app-development",
+    "cloud-applications",
+    "ui-ux-design"
+  ]
+}
