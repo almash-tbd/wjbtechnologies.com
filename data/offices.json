@@ -2,13 +2,13 @@
   {
     "id": "vadodara-hq",
     "name": "Vadodara Headquarters",
-    "addressLine1": "302, Maruti Complex, RC Dutt Road",
-    "addressLine2": "Alkapuri, Vadodara",
-    "city": "Vadodara",
-    "state": "Gujarat",
-    "postalCode": "390007",
-    "country": "India",
-    "phone": "+91 45784 575XX",
+    "addressLine1": "",
+    "addressLine2": "",
+    "city": "",
+    "state": "",
+    "postalCode": "",
+    "country": "",
+    "phone": "",
     "email": "info@wjbtechnologies.com",
     "isPrimary": true
   }

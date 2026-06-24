@@ -143,7 +143,7 @@ export function AboutPageHero() {
                     />
                     <span className="font-mono text-xs text-muted-foreground w-12">{year}</span>
                     <span className="font-sans text-sm font-light">
-                      {i === 0 && "Founded in Vadodara"}
+                      {i === 0 && "Company founded"}
                       {i === 1 && "Mobile & desktop expansion"}
                       {i === 2 && "Enterprise integrations"}
                       {i === 3 && "Cloud-first delivery"}

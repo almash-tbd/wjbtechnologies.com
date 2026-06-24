@@ -7,8 +7,8 @@ import { company } from "@/lib/data"
 
 export const metadata: Metadata = buildMetadata({
   title: "Contact Us",
-  description: `Contact ${company.brandName} for software development inquiries. Email ${company.email} or call ${company.phone}.`,
-  keywords: ["contact WJB Technologies", "software development inquiry", "IT company contact Vadodara"],
+  description: `Contact ${company.brandName} for custom software development inquiries. Reach us via email at ${company.email} or send an inquiry online.`,
+  keywords: ["contact WJB Technologies", "software development inquiry", "custom software development India"],
   path: "/contact/",
 })
 

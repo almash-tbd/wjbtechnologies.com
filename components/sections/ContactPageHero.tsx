@@ -2,7 +2,7 @@
 
 import { useEffect, useRef, useState } from "react"
 import { motion, useScroll, useTransform } from "framer-motion"
-import { Mail, Phone, Clock, MapPin } from "lucide-react"
+import { Mail, Clock } from "lucide-react"
 import { company, offices } from "@/lib/data"
 
 const ease = [0.25, 0.46, 0.45, 0.94] as const
@@ -39,8 +39,7 @@ export function ContactPageHero() {
 
   const channels = [
     { icon: Mail, label: "Email", value: company.email, href: `mailto:${company.email}` },
-    { icon: Phone, label: "Phone", value: company.phone, href: `tel:${company.phone.replace(/\s/g, "")}` },
-    { icon: MapPin, label: "Office", value: `${office.city}, ${office.state}`, href: undefined },
+    { icon: Clock, label: "Business Hours", value: company.businessHours.weekdays, href: undefined },
   ]
 
   return (
@@ -109,7 +108,7 @@ export function ContactPageHero() {
             Share your project requirements and our team will respond with practical next steps.
           </motion.p>
 
-          <div className="grid grid-cols-1 sm:grid-cols-3 gap-4 md:gap-5">
+          <div className="grid grid-cols-1 sm:grid-cols-2 gap-4 md:gap-5 max-w-3xl">
             {channels.map((channel, i) => (
               <motion.div
                 key={channel.label}
@@ -139,14 +138,7 @@ export function ContactPageHero() {
             ))}
           </div>
 
-          <motion.p
-            initial={{ opacity: 0 }}
-            animate={{ opacity: 1 }}
-            transition={{ delay: 1 }}
-            className="font-mono text-xs text-muted-foreground mt-8"
-          >
-            {company.businessHours.weekdays} · {company.businessHours.saturday}
-          </motion.p>
+
         </div>
       </motion.div>
 

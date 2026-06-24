@@ -1,7 +1,7 @@
 "use client"
 
 import { motion } from "framer-motion"
-import { Mail, Phone, Clock, MapPin } from "lucide-react"
+import { Mail, Clock } from "lucide-react"
 import { ContactForm } from "@/components/ui/ContactForm"
 import { ScrollReveal } from "@/components/ui/ScrollReveal"
 import { company, offices } from "@/lib/data"
@@ -23,8 +23,6 @@ export function ContactContent() {
 
             {[
               { icon: Mail, label: "Email", value: company.email, href: `mailto:${company.email}` },
-              { icon: Phone, label: "Phone", value: company.phone },
-              { icon: MapPin, label: "Office", value: `${office.city}, ${office.state}` },
             ].map((item, i) => (
               <ScrollReveal key={item.label} delay={i * 0.08}>
                 <motion.div whileHover={{ x: 6 }} className="flex items-start gap-5 group">
@@ -71,14 +69,7 @@ export function ContactContent() {
         </div>
       </section>
 
-      <section className="px-8 md:px-12 pb-16">
-        <ScrollReveal>
-          <div className="max-w-6xl mx-auto h-56 md:h-72 border border-white/10 rounded-2xl bg-white/[0.02] flex flex-col items-center justify-center gap-2">
-            <MapPin className="w-6 h-6 text-accent/60" />
-            <p className="font-mono text-xs text-muted-foreground tracking-widest">MAP — {office.addressLine1}, {office.city}</p>
-          </div>
-        </ScrollReveal>
-      </section>
+
     </>
   )
 }

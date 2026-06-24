@@ -31,7 +31,6 @@ export function AboutContent() {
           {[
             { label: "Company Since", value: company.establishedYear },
             { label: "Industry", value: "IT / Software" },
-            { label: "Headquarters", value: "Vadodara, India" },
             { label: "Engagement", value: "On-site & Remote" },
           ].map((stat, i) => (
             <div key={stat.label} className="flex-shrink-0">

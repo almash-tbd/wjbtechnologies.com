@@ -1,7 +1,7 @@
 "use client"
 
 import { motion } from "framer-motion"
-import { MapPin, Clock, Mail, Phone } from "lucide-react"
+import { Clock, Mail } from "lucide-react"
 import { offices, company } from "@/lib/data"
 import { ScrollReveal } from "@/components/ui/ScrollReveal"
 
@@ -18,20 +18,10 @@ export function OfficeLocations() {
           <ScrollReveal key={office.id} delay={index * 0.1} className="lg:col-span-2">
             <motion.div whileHover={{ y: -4 }} className="h-full p-8 md:p-10 border border-white/10 rounded-2xl bg-gradient-to-br from-white/[0.03] to-transparent">
               <h3 className="font-sans text-2xl font-light mb-8">{office.name}</h3>
-              <div className="grid grid-cols-1 md:grid-cols-2 gap-8 font-mono text-sm text-muted-foreground">
-                <div className="flex items-start gap-3">
-                  <MapPin className="w-4 h-4 text-accent mt-0.5 flex-shrink-0" />
-                  <p>{office.addressLine1}, {office.addressLine2}, {office.city}, {office.state} {office.postalCode}, {office.country}</p>
-                </div>
-                <div className="space-y-4">
-                  <div className="flex items-center gap-3">
-                    <Mail className="w-4 h-4 text-accent flex-shrink-0" />
-                    <a href={`mailto:${office.email}`} className="hover:text-foreground transition-colors">{office.email}</a>
-                  </div>
-                  <div className="flex items-center gap-3">
-                    <Phone className="w-4 h-4 text-accent flex-shrink-0" />
-                    <span>{office.phone}</span>
-                  </div>
+              <div className="font-mono text-sm text-muted-foreground">
+                <div className="flex items-center gap-3">
+                  <Mail className="w-4 h-4 text-accent flex-shrink-0" />
+                  <a href={`mailto:${office.email}`} className="hover:text-foreground transition-colors">{office.email}</a>
                 </div>
               </div>
             </motion.div>
@@ -51,12 +41,10 @@ export function OfficeLocations() {
                 <p>{company.businessHours.sunday}</p>
               </div>
             </div>
-            <div className="mt-8 h-32 border border-white/10 rounded-xl bg-white/[0.02] flex items-center justify-center">
-              <p className="font-mono text-[10px] text-muted-foreground tracking-widest">VADODARA, GUJARAT</p>
-            </div>
           </motion.div>
         </ScrollReveal>
       </div>
     </section>
   )
 }
+

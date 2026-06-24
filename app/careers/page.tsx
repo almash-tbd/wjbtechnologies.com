@@ -4,8 +4,8 @@ import CareersClient from "./CareersClient"
 
 export const metadata: Metadata = buildMetadata({
   title: "Careers",
-  description: "Join WJB Technologies. Explore software development, design, and QA career opportunities in Vadodara and remote.",
-  keywords: ["software jobs Vadodara", "IT careers India", "developer jobs"],
+  description: "Join WJB Technologies. Explore software development, design, and QA career opportunities.",
+  keywords: ["software jobs India", "IT careers India", "developer jobs"],
   path: "/careers/",
 })
 

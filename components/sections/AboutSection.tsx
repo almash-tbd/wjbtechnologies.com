@@ -20,7 +20,7 @@ export function AboutSection() {
           <h2 className="font-sans text-3xl md:text-5xl font-light italic mb-6">Building Software That Powers Business Growth</h2>
           <p className="font-mono text-sm text-muted-foreground leading-relaxed mb-6">{company.description}</p>
           <p className="font-mono text-sm text-muted-foreground leading-relaxed mb-8">
-            Established in {company.establishedYear} and rooted in {company.targetCountry}, {company.brandName} partners with organisations that need dependable technology—not generic templates. From Vadodara to remote engagements nationwide, we deliver with clarity and craftsmanship.
+            Established in {company.establishedYear} and rooted in {company.targetCountry}, {company.brandName} partners with organisations that need dependable technology—not generic templates. Through on-site and remote engagements nationwide, we deliver with clarity and craftsmanship.
           </p>
           <ButtonLink href="/about/">Learn More About Us</ButtonLink>
         </motion.div>
