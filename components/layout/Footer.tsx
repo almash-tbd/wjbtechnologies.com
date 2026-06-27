@@ -4,7 +4,7 @@ import { useState, useEffect } from "react"
 import Link from "next/link"
 import Image from "next/image"
 import { motion } from "framer-motion"
-import { ArrowUpRight, Facebook, Instagram } from "lucide-react"
+import { ArrowUpRight } from "lucide-react"
 import { company } from "@/lib/data"
 
 const footerLinks = [
@@ -95,15 +95,7 @@ export function Footer() {
           </div>
           <div>
             <p className="font-mono text-xs tracking-widest text-muted-foreground mb-4">CONTACT</p>
-            <p className="font-mono text-xs text-muted-foreground mb-4">{company.email}</p>
-            <div className="flex gap-4">
-              <span className="p-2 border border-white/20 rounded-full text-muted-foreground" aria-label="Instagram">
-                <Instagram className="w-4 h-4" />
-              </span>
-              <span className="p-2 border border-white/20 rounded-full text-muted-foreground" aria-label="Facebook">
-                <Facebook className="w-4 h-4" />
-              </span>
-            </div>
+            <p className="font-mono text-xs text-muted-foreground">{company.email}</p>
           </div>
         </div>
 

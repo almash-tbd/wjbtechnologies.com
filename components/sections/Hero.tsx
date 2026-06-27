@@ -30,11 +30,11 @@ export function Hero() {
           transition={{ duration: 1, delay: 0.2, ease: [0.25, 0.46, 0.45, 0.94] }}
         >
           <p className="font-mono text-xs tracking-[0.3em] text-muted-foreground mb-2">01 — SOFTWARE</p>
-          <h2 className="font-sans text-4xl md:text-6xl lg:text-7xl font-light tracking-tight text-balance">
+          <h1 className="font-sans text-4xl md:text-6xl lg:text-7xl font-light tracking-tight text-balance">
             ENGINEERING
             <br />
             <span className="italic">EXCELLENCE</span>
-          </h2>
+          </h1>
         </motion.div>
 
         <motion.div

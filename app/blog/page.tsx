@@ -4,7 +4,7 @@ import { PageHero } from "@/components/sections/PageHero"
 import { CTASection } from "@/components/sections/CTASection"
 import { BlogListContent } from "@/components/pages/BlogListContent"
 import { buildMetadata } from "@/lib/seo"
-import { blogs, getBlogCategories } from "@/lib/data"
+import { blogs } from "@/lib/data"
 
 export const metadata: Metadata = buildMetadata({
   title: "Blog & Insights",
@@ -12,8 +12,6 @@ export const metadata: Metadata = buildMetadata({
   keywords: ["software development blog", "IT insights India", "technology articles"],
   path: "/blog/",
 })
-
-const categories = getBlogCategories()
 
 export default function BlogPage() {
   return (
@@ -23,7 +21,7 @@ export default function BlogPage() {
         title="Articles & Insights"
         subtitle="Perspectives on software development, technology strategy, and digital transformation for growing businesses."
       />
-      <BlogListContent blogs={blogs} categories={categories} />
+      <BlogListContent blogs={blogs} />
       <CTASection />
     </PageShell>
   )

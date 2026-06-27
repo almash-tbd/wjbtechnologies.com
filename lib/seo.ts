@@ -31,6 +31,20 @@ export function buildMetadata({ title, description, keywords, path = "" }: PageS
       siteName: company.brandName,
       locale: "en_IN",
       type: "website",
+      images: [
+        {
+          url: `${company.url}/abstract-neural-network-visualization-dark-theme.jpg`,
+          width: 1200,
+          height: 630,
+          alt: `${title} | ${company.brandName}`,
+        },
+      ],
+    },
+    twitter: {
+      card: "summary_large_image",
+      title: `${title} | ${company.brandName}`,
+      description,
+      images: [`${company.url}/abstract-neural-network-visualization-dark-theme.jpg`],
     },
     alternates: {
       canonical: url,

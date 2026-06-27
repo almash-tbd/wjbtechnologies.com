@@ -1,7 +1,7 @@
 "use client"
 
 import Link from "next/link"
-import { ArrowUpRight, Calendar, Clock, Tag, User } from "lucide-react"
+import { ArrowUpRight, Clock, Tag, User } from "lucide-react"
 import type { BlogPost } from "@/lib/blogs"
 import { ScrollReveal } from "@/components/ui/ScrollReveal"
 import { CTASection } from "@/components/sections/CTASection"
@@ -9,14 +9,6 @@ import { CTASection } from "@/components/sections/CTASection"
 interface BlogDetailContentProps {
   post: BlogPost
   related: BlogPost[]
-}
-
-function formatDate(date: string) {
-  return new Date(date).toLocaleDateString("en-IN", {
-    day: "numeric",
-    month: "long",
-    year: "numeric",
-  })
 }
 
 export function BlogDetailContent({ post, related }: BlogDetailContentProps) {
@@ -31,13 +23,6 @@ export function BlogDetailContent({ post, related }: BlogDetailContentProps) {
               <p className="font-mono text-[10px] tracking-[0.3em] text-accent mb-6">ARTICLE INFO</p>
 
               <div className="space-y-5 mb-8">
-                <div className="flex items-start gap-3">
-                  <Calendar className="w-4 h-4 text-accent mt-0.5 flex-shrink-0" />
-                  <div>
-                    <p className="font-mono text-[10px] text-muted-foreground mb-1">PUBLISHED</p>
-                    <p className="font-sans text-sm">{formatDate(post.publishedDate)}</p>
-                  </div>
-                </div>
                 <div className="flex items-start gap-3">
                   <Clock className="w-4 h-4 text-accent mt-0.5 flex-shrink-0" />
                   <div>
