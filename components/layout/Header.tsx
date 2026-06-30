@@ -67,18 +67,17 @@ export function Navbar() {
         initial={{ y: -100 }}
         animate={{ y: 0 }}
         transition={{ duration: 0.8, ease: [0.16, 1, 0.3, 1] }}
-        className={`fixed top-0 left-0 right-0 z-50 transition-all duration-500 ${
-          isScrolled ? "bg-background/80 backdrop-blur-md border-b border-border" : ""
-        }`}
+        className={`fixed top-0 left-0 right-0 z-50 transition-all duration-500 ${isScrolled ? "bg-background/80 backdrop-blur-md border-b border-border" : ""
+          }`}
       >
         <nav className="flex items-center justify-between px-6 py-4 md:px-12 md:py-5">
           <Link href="/" className="group flex items-center gap-3" data-cursor-hover>
             <Image
               src="/images/logo.png"
               alt={`${company.brandName} Logo`}
-              width={120}
+              width={220}
               height={69}
-              className="h-8 md:h-10 w-auto object-contain brightness-100 transition-opacity duration-300 group-hover:opacity-90"
+              className="h-8 md:h-18 w-auto object-contain brightness-100 transition-opacity duration-300 group-hover:opacity-90"
               priority
             />
           </Link>
@@ -88,9 +87,8 @@ export function Navbar() {
               <Link
                 href="/"
                 data-cursor-hover
-                className={`group relative font-mono text-xs tracking-wider transition-colors duration-300 ${
-                  isActive("/") ? "text-foreground" : "text-muted-foreground hover:text-foreground"
-                }`}
+                className={`group relative font-mono text-xs tracking-wider transition-colors duration-300 ${isActive("/") ? "text-foreground" : "text-muted-foreground hover:text-foreground"
+                  }`}
               >
                 <span className="text-accent mr-1">01</span>
                 HOME
@@ -102,9 +100,8 @@ export function Navbar() {
               <Link
                 href="/about/"
                 data-cursor-hover
-                className={`group relative font-mono text-xs tracking-wider transition-colors duration-300 ${
-                  isActive("/about/") ? "text-foreground" : "text-muted-foreground hover:text-foreground"
-                }`}
+                className={`group relative font-mono text-xs tracking-wider transition-colors duration-300 ${isActive("/about/") ? "text-foreground" : "text-muted-foreground hover:text-foreground"
+                  }`}
               >
                 <span className="text-accent mr-1">02</span>
                 ABOUT
@@ -121,18 +118,16 @@ export function Navbar() {
                 <Link
                   href="/services/"
                   data-cursor-hover
-                  className={`group relative font-mono text-xs tracking-wider transition-colors duration-300 ${
-                    isServicesActive ? "text-foreground" : "text-muted-foreground hover:text-foreground"
-                  }`}
+                  className={`group relative font-mono text-xs tracking-wider transition-colors duration-300 ${isServicesActive ? "text-foreground" : "text-muted-foreground hover:text-foreground"
+                    }`}
                 >
                   <span className="text-accent mr-1">03</span>
                   SERVICES
                   <span className="absolute -bottom-1 left-0 w-0 h-px bg-foreground group-hover:w-full transition-all duration-300" />
                 </Link>
                 <ChevronDown
-                  className={`w-3 h-3 text-muted-foreground transition-transform duration-300 ${
-                    isServicesOpen ? "rotate-180 text-accent" : ""
-                  }`}
+                  className={`w-3 h-3 text-muted-foreground transition-transform duration-300 ${isServicesOpen ? "rotate-180 text-accent" : ""
+                    }`}
                 />
               </div>
 
@@ -175,9 +170,8 @@ export function Navbar() {
                                   <Link
                                     href={`/services/${service.slug}/`}
                                     data-cursor-hover
-                                    className={`group flex items-start gap-2 rounded-lg px-2 py-2 transition-colors hover:bg-white/[0.04] ${
-                                      isActive(`/services/${service.slug}/`) ? "text-foreground" : "text-muted-foreground hover:text-foreground"
-                                    }`}
+                                    className={`group flex items-start gap-2 rounded-lg px-2 py-2 transition-colors hover:bg-white/[0.04] ${isActive(`/services/${service.slug}/`) ? "text-foreground" : "text-muted-foreground hover:text-foreground"
+                                      }`}
                                   >
                                     <ArrowUpRight className="w-3 h-3 mt-0.5 flex-shrink-0 opacity-0 -translate-x-1 group-hover:opacity-100 group-hover:translate-x-0 transition-all duration-200 text-accent" />
                                     <span className="font-mono text-[11px] leading-snug">{service.title}</span>
@@ -203,18 +197,16 @@ export function Navbar() {
                 <Link
                   href="/solutions/"
                   data-cursor-hover
-                  className={`group relative font-mono text-xs tracking-wider transition-colors duration-300 ${
-                    isSolutionsActive ? "text-foreground" : "text-muted-foreground hover:text-foreground"
-                  }`}
+                  className={`group relative font-mono text-xs tracking-wider transition-colors duration-300 ${isSolutionsActive ? "text-foreground" : "text-muted-foreground hover:text-foreground"
+                    }`}
                 >
                   <span className="text-accent mr-1">04</span>
                   SOLUTIONS
                   <span className="absolute -bottom-1 left-0 w-0 h-px bg-foreground group-hover:w-full transition-all duration-300" />
                 </Link>
                 <ChevronDown
-                  className={`w-3 h-3 text-muted-foreground transition-transform duration-300 ${
-                    isSolutionsOpen ? "rotate-180 text-accent" : ""
-                  }`}
+                  className={`w-3 h-3 text-muted-foreground transition-transform duration-300 ${isSolutionsOpen ? "rotate-180 text-accent" : ""
+                    }`}
                 />
               </div>
 
@@ -251,9 +243,8 @@ export function Navbar() {
                             <Link
                               href={`/solutions/${solution.slug}/`}
                               data-cursor-hover
-                              className={`group flex items-center gap-4 px-4 py-4 rounded-xl border border-transparent transition-all duration-200 hover:border-white/30 hover:bg-white/[0.03] ${
-                                isActive(`/solutions/${solution.slug}/`) ? "border-white/25 bg-white/[0.04]" : ""
-                              }`}
+                              className={`group flex items-center gap-4 px-4 py-4 rounded-xl border border-transparent transition-all duration-200 hover:border-white/30 hover:bg-white/[0.03] ${isActive(`/solutions/${solution.slug}/`) ? "border-white/25 bg-white/[0.04]" : ""
+                                }`}
                             >
                               <div className="flex-shrink-0 w-10 h-10 rounded-lg border border-white/15 bg-white/[0.04] flex items-center justify-center text-foreground">
                                 <SolutionIcon name={solution.icon} className="w-4 h-4" />
@@ -285,9 +276,8 @@ export function Navbar() {
                 <Link
                   href={link.href}
                   data-cursor-hover
-                  className={`group relative font-mono text-xs tracking-wider transition-colors duration-300 ${
-                    isActive(link.href) ? "text-foreground" : "text-muted-foreground hover:text-foreground"
-                  }`}
+                  className={`group relative font-mono text-xs tracking-wider transition-colors duration-300 ${isActive(link.href) ? "text-foreground" : "text-muted-foreground hover:text-foreground"
+                    }`}
                 >
                   <span className="text-accent mr-1">0{index + 5}</span>
                   {link.label.toUpperCase()}
@@ -354,9 +344,8 @@ export function Navbar() {
                       Services
                     </span>
                     <ChevronDown
-                      className={`w-5 h-5 text-muted-foreground transition-transform duration-300 ${
-                        isMobileServicesOpen ? "rotate-180 text-accent" : ""
-                      }`}
+                      className={`w-5 h-5 text-muted-foreground transition-transform duration-300 ${isMobileServicesOpen ? "rotate-180 text-accent" : ""
+                        }`}
                     />
                   </button>
 
@@ -390,11 +379,10 @@ export function Navbar() {
                                   <li key={service.slug}>
                                     <Link
                                       href={`/services/${service.slug}/`}
-                                      className={`font-mono text-sm transition-colors ${
-                                        isActive(`/services/${service.slug}/`)
-                                          ? "text-foreground"
-                                          : "text-muted-foreground hover:text-foreground"
-                                      }`}
+                                      className={`font-mono text-sm transition-colors ${isActive(`/services/${service.slug}/`)
+                                        ? "text-foreground"
+                                        : "text-muted-foreground hover:text-foreground"
+                                        }`}
                                     >
                                       {service.title}
                                     </Link>
@@ -421,9 +409,8 @@ export function Navbar() {
                       Solutions
                     </span>
                     <ChevronDown
-                      className={`w-5 h-5 text-muted-foreground transition-transform duration-300 ${
-                        isMobileSolutionsOpen ? "rotate-180 text-accent" : ""
-                      }`}
+                      className={`w-5 h-5 text-muted-foreground transition-transform duration-300 ${isMobileSolutionsOpen ? "rotate-180 text-accent" : ""
+                        }`}
                     />
                   </button>
 
@@ -451,11 +438,10 @@ export function Navbar() {
                             <li key={solution.slug}>
                               <Link
                                 href={`/solutions/${solution.slug}/`}
-                                className={`flex items-center gap-3 py-2 font-mono text-sm transition-colors ${
-                                  isActive(`/solutions/${solution.slug}/`)
-                                    ? "text-foreground"
-                                    : "text-muted-foreground hover:text-foreground"
-                                }`}
+                                className={`flex items-center gap-3 py-2 font-mono text-sm transition-colors ${isActive(`/solutions/${solution.slug}/`)
+                                  ? "text-foreground"
+                                  : "text-muted-foreground hover:text-foreground"
+                                  }`}
                               >
                                 <span className="w-8 h-8 rounded-lg border border-white/15 flex items-center justify-center flex-shrink-0">
                                   <SolutionIcon name={solution.icon} className="w-3.5 h-3.5" />

@@ -116,7 +116,7 @@ function Sphere() {
 
   return (
     <mesh ref={meshRef}>
-      <icosahedronGeometry args={[1.8, 64]} />
+      <icosahedronGeometry args={[1.3, 64]} />
       <shaderMaterial
         ref={materialRef}
         vertexShader={vertexShader}

@@ -269,26 +269,6 @@ export function ServiceDetailContent({ service, related }: ServiceDetailContentP
         </div>
       </section>
 
-      {/* Inquiry — full bleed */}
-      <section className="relative py-20 md:py-28 px-8 md:px-12 overflow-hidden">
-        <div className="absolute inset-0 bg-gradient-to-br from-[#2563eb]/10 via-transparent to-transparent pointer-events-none" />
-        <div className="relative max-w-6xl mx-auto grid grid-cols-1 lg:grid-cols-2 gap-12 lg:gap-20 items-center">
-          <ScrollReveal>
-            <p className="font-mono text-xs tracking-[0.3em] text-accent mb-4">GET STARTED</p>
-            <h2 className="font-sans text-2xl md:text-3xl lg:text-4xl font-light italic leading-tight mb-4">
-              Ready for {service.title}?
-            </h2>
-            <p className="font-mono text-sm text-muted-foreground leading-relaxed">
-              Share your requirements for {service.title.toLowerCase()}. Our team will review and respond with a clear, practical next step.
-            </p>
-          </ScrollReveal>
-          <ScrollReveal delay={0.12}>
-            <div className="p-8 md:p-10 border border-white/15 rounded-3xl bg-background/80 backdrop-blur-md shadow-2xl">
-              <ContactForm />
-            </div>
-          </ScrollReveal>
-        </div>
-      </section>
 
       {/* Related */}
       {related.length > 0 && (

@@ -129,9 +129,8 @@ export function SolutionDetailContent({ solution, relatedSolutions, relatedServi
                   <span className="font-mono text-xs text-muted-foreground w-10">0{index + 1}</span>
                   <p className="font-sans text-base md:text-lg lg:text-xl font-light flex-1 leading-snug">{feature}</p>
                   <ArrowUpRight
-                    className={`w-5 h-5 flex-shrink-0 transition-all duration-300 ${
-                      hoveredFeature === index ? "text-accent rotate-45" : "text-muted-foreground/40"
-                    }`}
+                    className={`w-5 h-5 flex-shrink-0 transition-all duration-300 ${hoveredFeature === index ? "text-accent rotate-45" : "text-muted-foreground/40"
+                      }`}
                   />
                 </div>
               </div>
@@ -186,25 +185,6 @@ export function SolutionDetailContent({ solution, relatedSolutions, relatedServi
         </section>
       )}
 
-      <section className="relative py-20 md:py-28 px-8 md:px-12 overflow-hidden">
-        <div className="absolute inset-0 bg-gradient-to-br from-[#2563eb]/10 via-transparent to-transparent pointer-events-none" />
-        <div className="relative max-w-6xl mx-auto grid grid-cols-1 lg:grid-cols-2 gap-12 lg:gap-20 items-center">
-          <ScrollReveal>
-            <p className="font-mono text-xs tracking-[0.3em] text-accent mb-4">GET STARTED</p>
-            <h2 className="font-sans text-2xl md:text-3xl lg:text-4xl font-light italic leading-tight mb-4">
-              Ready for {solution.title}?
-            </h2>
-            <p className="font-mono text-sm text-muted-foreground leading-relaxed">
-              Share your requirements for {solution.title.toLowerCase()}. Our team will review and respond with a clear, practical next step.
-            </p>
-          </ScrollReveal>
-          <ScrollReveal delay={0.12}>
-            <div className="p-8 md:p-10 border border-white/15 rounded-3xl bg-background/80 backdrop-blur-md shadow-2xl">
-              <ContactForm />
-            </div>
-          </ScrollReveal>
-        </div>
-      </section>
 
       {(relatedSolutions.length > 0 || relatedServices.length > 0) && (
         <section className="py-16 md:py-20 px-8 md:px-12 border-t border-white/10">

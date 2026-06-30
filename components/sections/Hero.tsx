@@ -23,7 +23,7 @@ export function Hero() {
         <SentientSphere />
       </div>
 
-      <motion.div style={{ opacity, scale }} className="relative z-10 h-full flex flex-col justify-between p-8 md:p-12 md:px-12 md:py-20">
+      <motion.div style={{ opacity, scale }} className="relative z-10 h-full flex flex-col justify-between p-8 pt-32 md:p-12 md:px-12 md:pt-40 md:pb-20">
         <motion.div
           initial={{ opacity: 0, y: 40 }}
           animate={{ opacity: 1, y: 0 }}
